@@ -1,0 +1,26 @@
+<!--#include virtual="../~cscorley/header.shtml" -->
+<div id="content">
+    <p>
+        I am a Ph.D. Graduate Student in the 
+        <a href="http://cs.ua.edu/"> Department of Computer Science</a> at the
+        <a href="http://www.ua.edu/">University of Alabama</a>.  My research
+        interests are in software engineering and maintenance.  I am part of the
+        <a href="http://software.eng.ua.edu">Software Engineering Research Group</a>
+        and a <a href="http://gaann.cs.ua.edu/">GAANN</a> fellow.  My advisor is
+        <a href="http://cs.ua.edu/~nkraft">Dr. Nicholas Kraft</a>.
+    </p>
+    <br />
+    <h5>News</h5>
+    <ul>
+        <li>
+            Spring semester courses begin. Taking: CS 557, CS 575, and CS 691
+(Software Evolution)
+        </li>
+
+        <li>
+            Attended <a href="http://www.cs.wm.edu/icsm2011/">ICSM'11</a>
+        </li>
+    </ul>
+</div>
+<div style="clear:both;"></div>
+<!--#include virtual="../~cscorley/footer.shtml" -->

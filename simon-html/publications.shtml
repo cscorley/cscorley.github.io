@@ -1,0 +1,41 @@
+<!--#include virtual="../~cscorley/header.shtml" -->
+<div id="content">
+    Please observe the posted <a href="../~cscorley/copyright.shtml">copyright notices</a> governing
+    the use of material from this page.
+    <hr />
+    
+    <a name="submission"></a>
+    <h5>In submission</h5>
+    <ul class="pubList">
+        <li>
+            <span class="pubTitle">Examining the Relationship between Ownership and Topics in Source Code</span><br/>
+            <span class="pubAuthor">C.S. Corley, E.A. Kammer, and N.A. Kraft</span><br/>
+            <span class="pubExtra">
+                <a class="htmlLink" href="http://software.eng.ua.edu/reports/SERG-2012-01">Tech Report</a>
+            </span>
+        </li>
+    </ul>
+    <br/>
+    
+    <a name="revision"></a>
+    <h5>In revision</h5>
+    <ul class="pubList">
+    	<li></li>
+    </ul>
+    <br/>
+    
+    <a name="2011"></a>
+    <h5>2011</h5>
+    <ul class="pubList">
+        <li>
+            <span class="pubTitle"><a href="http://dx.doi.org/10.1145/1987856.1987863" class="doiLink">Recovering Traceability Links between Source Code and Fixed Bugs via Patch Analysis</a></span>
+            <br/>
+            <span class="pubAuthor">C.S. Corley, N.A. Kraft, L.H. Etzkorn, and S.K. Lukins</span>
+            <br/>
+            <span class="pubVenue"><a href="http://www.cs.wm.edu/semeru/tefse2011" class="acmLink">International Workshop on Traceability in Emerging Forms of Software Engineering (TEFSE'11)</a></span>
+            <br/>
+        </li>
+    </ul>
+</div>
+<div style="clear:both;"></div>
+<!--#include virtual="../~cscorley/footer.shtml" -->

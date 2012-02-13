@@ -1,0 +1,35 @@
+<!--#include virtual="../~cscorley/header.shtml" -->
+<div id="content">
+    <h3>Curriculum Vitae</h3>
+    <p>
+        A download link to the full PDF will be added later.
+        <!--
+        Download/View the <a href="/~cscorley/vita/cscorley_cv.pdf">PDF</a>.
+        -->
+    </p>
+    <br />
+    <h3>Biography</h3>
+    <p>
+        Christopher S. Corley is a Ph.D Graduate Student in the 
+        <a href="http://cs.ua.edu/">Department of Computer Science</a> at
+        <a href="http://www.ua.edu/">The University of Alabama</a>.<br />
+        He joined the Ph.D program at UA in Summer 2011.  His advisor is
+        <a href="http://cs.ua.edu/~nkraft">Dr. Nicholas Kraft</a>.
+    </p>
+    <br />
+    <p>
+        Christopher received a B.S. in Computer Science in May 2011 from the 
+        <a href="http://www.una.edu/">University of North Alabama</a> in
+        Florence, Alabama.  He attended UNA for five years, maintaining an
+        active membership of the 
+        <a href="http://www.acm.org">ACM Student Chapter</a> for four years and
+        was elected chapter president for three consecutive years.  For two
+        consecutive years (2009 and 2010), Christopher participated in the 
+        <a href="http://reu.cs.ua.edu/">Software Languages Engineering REU site</a>
+        at UA.  At the REU site, he worked closely with Dr. Kraft, and the site
+        influenced him to further his education by pursuing a doctoral degree at
+        UA.
+    </p>
+</div>
+<div style="clear:both;"></div>
+<!--#include virtual="../~cscorley/footer.shtml" -->
