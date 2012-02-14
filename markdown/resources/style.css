@@ -77,3 +77,10 @@ body.content .toc ul {
 body.content .toc ul ul {
   margin-left: 20px;
 }
+.mailto {
+  font-family:Monaco, Andale Mono, Courier New, monospace;
+  font-size:12px;
+  line-height: 16px;
+  white-space: pre;
+  overflow-x: auto;
+}

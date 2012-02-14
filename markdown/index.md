@@ -2,6 +2,7 @@
      src="http://cs.ua.edu/~cscorley/images/cscorley.jpg"
      title="Chris"
      alt="Picture of Christopher"/>
+
 I am a Ph.D. Graduate Student in the [Department of Computer Science](http://cs.ua.edu/)
  at the [University of Alabama](http://www.ua.edu/).
 My research interests are in software engineering and maintenance.
@@ -14,3 +15,12 @@ News
 * Spring courses begin. Taking: CS 557, CS 575, and CS 691 (Software Evolution)
 * New paper in submission: [Examining the Relationship between Ownership and
   Topics in Source Code](http://software.eng.ua.edu/reports/SERG-2012-01)
+
+Contact
+-------
+Department of Computer Science<br />
+University of Alabama<br />
+Tuscaloosa, Alabama 35487-0290<br />
+Office: 2031 Shelby Hall<br />
+<span class="mailto">[cscorley@ua.edu](mailto:cscorley@ua.edu)</span>
+
