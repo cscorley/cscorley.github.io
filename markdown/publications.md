@@ -1,4 +1,6 @@
-Please observe the posted [copyright notices](/copyright) governing the use of material from
+Publications
+============
+Please observe the posted [copyright notices](../copyright) governing the use of material from
 this page.
 
 In submission

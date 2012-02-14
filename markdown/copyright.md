@@ -4,7 +4,7 @@ Copyright notices governing the use of publications from this site.
 
 [ACM](http://acm.org/)
 ---
-Copyright © by the Association for Computing Machinery, Inc. Permission to make
+Copyright by the Association for Computing Machinery, Inc. Permission to make
 digital or hard copies of part or all of this work for personal or classroom use
 is granted without fee provided that copies are not made or distributed for
 profit or commercial advantage and that copies bear this notice and the full
