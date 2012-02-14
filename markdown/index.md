@@ -1,3 +1,5 @@
+<img style="border: 6px solid #ddd; height: 175px; float: right; padding: 1px; background: #aaa; margin-left: 20px;"
+     src="http://cs.ua.edu/~cscorley/images/cscorley.jpg" />
 I am a Ph.D. Graduate Student in the [Department of Computer Science](http://cs.ua.edu/)
  at the [University of Alabama](http://www.ua.edu/).
 My research interests are in software engineering and maintenance.
