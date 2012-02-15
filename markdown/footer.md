@@ -1,4 +1,4 @@
-[Disclaimer](./disclaimer)
+[Disclaimer](/~cscorley/disclaimer)
 
 Written in [vim](http://www.vim.org/).
 Generated using [markdown](http://daringfireball.net/projects/markdown/) + [d](http://sjl.bitbucket.org/d/).
