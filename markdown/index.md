@@ -1,5 +1,5 @@
 <img style="border: 6px solid #ddd; height: 175px; float: right; padding: 1px; background: #aaa; margin-left: 20px;"
-     src="~/cscorley/_dmedia/cscorley.jpg"
+     src="/~cscorley/_dmedia/cscorley.jpg"
      title="Chris"
      alt="Picture of Christopher"/>
 
