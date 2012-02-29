@@ -22,5 +22,5 @@ Department of Computer Science<br />
 University of Alabama<br />
 Tuscaloosa, Alabama 35487-0290<br />
 Office: 2031 Shelby Hall<br />
-<span class="mailto">[cscorley@ua.edu](mailto:cscorley@ua.edu)</span>
-
+Email: <span class="mailto">[cscorley@ua.edu](mailto:cscorley@ua.edu)</span><br />
+Twitter: [@excsc](http://twitter.com/excsc)<br />
