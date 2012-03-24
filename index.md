@@ -13,8 +13,8 @@ advisor is [Dr. Nicholas Kraft](http://cs.ua.edu/~nkraft/).
 News
 ----
 * Spring courses begin. Taking: CS 557, CS 575, and CS 691 (Software Evolution)
-* New paper in submission: [Examining the Relationship between Ownership and
-  Topics in Source Code](http://software.eng.ua.edu/reports/SERG-2012-01)
+* Paper accepted at [ICPC'12](http://icpc12.sosy-lab.org/):
+  [Examining the Relationship between Ownership and Topics in Source Code](http://software.eng.ua.edu/reports/SERG-2012-01)
 
 Contact
 -------

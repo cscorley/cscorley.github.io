@@ -5,12 +5,16 @@ this page.
 
 In submission
 -------------
-* Examining the Relationship between Ownership and Topics in Source Code
-  <br /> C.S. Corley, E.A. Kammer, and N.A. Kraft
-  <br />[Tech Report](http://software.eng.ua.edu/reports/SERG-2012-01)
 
 In revision
 -----------
+
+2012
+----
+* [Examining the Relationship between Ownership and Topics in Source Code](http://software.eng.ua.edu/reports/SERG-2012-01)
+  <br /> C.S. Corley, E.A. Kammer, and N.A. Kraft
+  <br /> [IEEE International Conference on Program Comprehension (ICPC'12)](http://icpc12.sosy-lab.org/)
+
 
 2011
 ----
