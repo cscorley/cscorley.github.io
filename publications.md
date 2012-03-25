@@ -11,15 +11,19 @@ In revision
 
 2012
 ----
-* [Examining the Relationship between Ownership and Topics in Source Code](http://software.eng.ua.edu/reports/SERG-2012-01)
+* Examining the Relationship between Ownership and Topics in Source Code
   <br /> C.S. Corley, E.A. Kammer, and N.A. Kraft
-  <br /> [IEEE International Conference on Program Comprehension (ICPC'12)](http://icpc12.sosy-lab.org/)
+  <br /> *IEEE International Conference on Program Comprehension* ([ICPC'12](http://icpc12.sosy-lab.org/))
+  <br /> (acceptance rate 41%)
+  <br /> [[Tech report]](http://software.eng.ua.edu/reports/SERG-2012-01)
 
 
 2011
 ----
-* [Recovering Traceability Links between Source Code and Fixed Bugs via Patch
-  Analysis](http://dx.doi.org/10.1145/1987856.1987863)
+* Recovering Traceability Links between Source Code and Fixed Bugs via Patch Analysis
   <br /> C.S. Corley, N.A. Kraft, L.H. Etzkorn, and S.K. Lukins
-  <br /> [International Workshop on Traceability in Emerging Forms of Software
-  Engineering (TEFSE'11)](http://www.cs.wm.edu/semeru/tefse2011)
+  <br /> *International Workshop on Traceability in Emerging Forms of Software
+  Engineering* ([TEFSE'11](http://www.cs.wm.edu/semeru/tefse2011))
+  <br /> (acceptance rate 44%)
+  <br /> [[Slides]](/~cscorley/_static/slides/tefse11.pdf)
+  [[Paper]](http://dx.doi.org/10.1145/1987856.1987863)
