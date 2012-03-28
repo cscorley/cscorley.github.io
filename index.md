@@ -14,7 +14,7 @@ News
 ----
 * Spring courses begin. Taking: CS 557, CS 575, and CS 691 (Software Evolution)
 * Paper accepted at [ICPC'12](http://icpc12.sosy-lab.org/):
-  [Examining the Relationship between Ownership and Topics in Source Code](http://software.eng.ua.edu/reports/SERG-2012-01)
+  [Modeling the Ownership of Source Code Topics](http://software.eng.ua.edu/reports/SERG-2012-01) (new title)
 
 Contact
 -------

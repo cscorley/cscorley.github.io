@@ -11,7 +11,7 @@ In revision
 
 2012
 ----
-* Examining the Relationship between Ownership and Topics in Source Code
+* Modeling the Ownership of Source Code Topics
   <br /> C.S. Corley, E.A. Kammer, and N.A. Kraft
   <br /> *IEEE International Conference on Program Comprehension* ([ICPC'12](http://icpc12.sosy-lab.org/))
   <br /> (acceptance rate 41%)
