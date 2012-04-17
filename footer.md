@@ -5,4 +5,4 @@ Generated using [markdown](http://daringfireball.net/projects/markdown/) + [d](h
 Source files on [Github](http://github.com/cscorley/cs.ua.edu/).
 
 <a id="cs-alabama" href="http://cs.ua.edu/" title="Alabama - Roll Tide y'all"><img
-src="/~cscorley/_dmedia/ua.png" width=100px/></a>
+src="/~cscorley/_dmedia/ua-cs.png" width=200px/></a>
