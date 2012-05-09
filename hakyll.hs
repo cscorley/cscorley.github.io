@@ -34,20 +34,17 @@ main = hakyllWith config $ do
             >>> applyTemplateCompiler "templates/index.html"
             >>> relativizeUrlsCompiler
 
-    match "cv.md" $ do
+    match "vita.md" $ do
         route   $ routePage
         compile $ pageCompiler
             >>> arr (setField "title" "Curriculum Vitae")
-            >>> requireA "sidebar.md" (setFieldA "sidebar" $ arr pageBody)
+            >>> requireA "vita-aux.md" (setFieldA "vitaaux" $ arr pageBody)
             >>> requireA "footer.md" (setFieldA "footer" $ arr pageBody)
-            >>> applyTemplateCompiler "templates/default.html"
+            >>> applyTemplateCompiler "templates/vita.html"
             >>> relativizeUrlsCompiler
 
-    -- Sidebar
-    match "sidebar.md" $ compile pageCompiler
-
-    -- Footer
-    match "footer.md" $ compile pageCompiler
+    forM_ partials $ \p -> match p $ do
+        compile pageCompiler
 
     -- Templates
     match "templates/*" $ compile templateCompiler
@@ -58,8 +55,12 @@ main = hakyllWith config $ do
         , writerStandalone = True
         }
 
-    pages = [ "vita.md"
-            , "publications.md"
+    partials = [ "sidebar.md"
+               , "footer.md"
+               , "vita-aux.md"
+               ]
+
+    pages = [ "publications.md"
             , "disclaimer.md"
             , "copyright.md"
             ]
