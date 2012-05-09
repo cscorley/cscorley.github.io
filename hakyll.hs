@@ -58,8 +58,6 @@ main = hakyllWith config $ do
 config :: HakyllConfiguration
 config = defaultHakyllConfiguration
     { 
-     --deployCommand = "rsync --checksum -ave 'ssh -p 2222' \
-    --               \_site/* jaspervdj@jaspervdj.be:jaspervdj.be/hakyll"
         deployCommand = "rsync --checksum -av ./_site/* ~/Web/"
     }
 
