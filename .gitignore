@@ -9,3 +9,8 @@ docs/build
 MANIFEST
 build/
 dist/
+_cache
+_site
+hakyll
+*.hi
+*.o
