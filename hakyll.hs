@@ -60,7 +60,7 @@ config = defaultHakyllConfiguration
     { 
      --deployCommand = "rsync --checksum -ave 'ssh -p 2222' \
     --               \_site/* jaspervdj@jaspervdj.be:jaspervdj.be/hakyll"
-        deployCommand = "rm -rf ~/Web/hakyll/*; cp -R ./_site/* ~/Web/hakyll"
+        deployCommand = "rsync --checksum -av ./_site/* ~/Web/"
     }
 
 -- | Take a page like @\"/about/notebooks.md\"@ and route it to
