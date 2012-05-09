@@ -77,7 +77,7 @@ body.content #sidebar ul {
 body.content #sidebar ul ul {
   margin-left: 20px;
 }
-.mail a code {
+.mail a code, a code.url {
   font-family:Monaco, Andale Mono, Courier New, monospace;
   font-size: inherit;
   font-weight:inherit;
@@ -91,7 +91,12 @@ body.content #sidebar ul ul {
   -moz-border-radius: 0;
   border-radius: 0;
 }
-.mail a:hover code {
+.mail a:hover code, a:hover code.url {
     color:#00438a;
     text-decoration:underline;
 }
+.vita-table table td {
+    border: none;
+}
+.vita-table th,
+.vita-table td{padding:0px 5px 5px 4px;}

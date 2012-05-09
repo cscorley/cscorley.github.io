@@ -1,11 +1,15 @@
 % Christopher S. Corley
 % Curriculum Vitae
 
------------------------------- --------------------------------
-Department of Computer Science    <http://cs.ua.edu/~cscorley/>
-The University of Alabama                     <cscorley@ua.edu>
+<span class="vita-table">
+
+------------------------------ ------------------------------------------------
+Department of Computer Science                    <http://cs.ua.edu/~cscorley/>
+The University of Alabama           <span class="mail"><cscorley@ua.edu></span>
 Tuscaloosa, AL 35487-0290, USA
------------------------------- --------------------------------
+------------------------------ ------------------------------------------------
+
+</span>
 
 
 Education

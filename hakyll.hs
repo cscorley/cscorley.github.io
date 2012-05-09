@@ -34,6 +34,15 @@ main = hakyllWith config $ do
             >>> applyTemplateCompiler "templates/index.html"
             >>> relativizeUrlsCompiler
 
+    match "cv.md" $ do
+        route   $ routePage
+        compile $ pageCompiler
+            >>> arr (setField "title" "Curriculum Vitae")
+            >>> requireA "sidebar.md" (setFieldA "sidebar" $ arr pageBody)
+            >>> requireA "footer.md" (setFieldA "footer" $ arr pageBody)
+            >>> applyTemplateCompiler "templates/default.html"
+            >>> relativizeUrlsCompiler
+
     -- Sidebar
     match "sidebar.md" $ compile pageCompiler
 
@@ -57,7 +66,7 @@ main = hakyllWith config $ do
 
 config :: HakyllConfiguration
 config = defaultHakyllConfiguration
-    { 
+    {
         deployCommand = "rsync --checksum -av ./_site/* ~/Web/"
     }
 

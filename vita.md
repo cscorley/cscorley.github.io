@@ -4,7 +4,7 @@ title: Vita
 
 Curriculum Vitae
 ----------------
-A download link to the full PDF will be added later.
+My vita is available as both [HTML](/cv) and [PDF](/cscorley_cv.pdf).
 
 Biography
 ---------
