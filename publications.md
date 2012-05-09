@@ -1,5 +1,7 @@
-Publications
-============
+---
+title: Publications
+---
+
 Please observe the posted [copyright notices](../copyright) governing the use of material from
 this page.
 

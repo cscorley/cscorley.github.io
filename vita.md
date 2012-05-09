@@ -1,5 +1,6 @@
-Vita
-====
+---
+title: Vita
+---
 
 Curriculum Vitae
 ----------------

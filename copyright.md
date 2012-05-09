@@ -1,5 +1,7 @@
-Copyright Information
-=====================
+---
+title: Copyright Information
+---
+
 Copyright notices governing the use of publications from this site.
 
 [ACM](http://www.acm.org/publications/policies/copyright_policy/)

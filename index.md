@@ -1,5 +1,9 @@
+---
+title: Home
+---
+
 <img style="border: 6px solid #ddd; height: 175px; float: right; padding: 1px; background: #aaa; margin-left: 20px;"
-     src="/~cscorley/_dmedia/cscorley.jpg"
+     src="/images/cscorley.jpg"
      title="Chris"
      alt="Picture of Christopher"/>
 
@@ -25,5 +29,5 @@ Department of Computer Science<br />
 University of Alabama<br />
 Tuscaloosa, Alabama 35487-0290<br />
 Office: 2031 Shelby Hall<br />
-Email: <span class="mailto">[cscorley@ua.edu](mailto:cscorley@ua.edu)</span><br />
+Email: [cscorley@ua.edu](mailto:cscorley@ua.edu)<br />
 Twitter: [@excsc](http://twitter.com/excsc)<br />

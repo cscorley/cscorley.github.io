@@ -1,7 +1,7 @@
 html {
   overflow-y: scroll;
 }
-.wrap {
+#main {
   width: 820px;
   margin: 40px auto 180px;
 }
@@ -51,11 +51,11 @@ body.index header h1 {
   font-size: 56px;
   margin-bottom: 40px;
 }
-body.index ol.toc {
+body.index #sidebar ol {
   list-style-type: none;
   margin-left: 0;
 }
-body.index ol.toc li {
+body.index #sidebar ol li {
   font-size: 16px;
   line-height: 1.25;
 }
@@ -70,14 +70,14 @@ body.content header h1 {
   line-height: 1;
   margin-top: 10px;
 }
-body.content .toc ul {
+body.content #sidebar ul {
   list-style-type: none;
   margin-left: 0px;
 }
-body.content .toc ul ul {
+body.content #sidebar ul ul {
   margin-left: 20px;
 }
-.mailto {
+h2 #contact script a code {
   font-family:Monaco, Andale Mono, Courier New, monospace;
   font-size:12px;
   line-height: 16px;
