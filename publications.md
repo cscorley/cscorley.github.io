@@ -2,7 +2,7 @@
 title: Publications
 ---
 
-Please observe the posted [copyright notices](../copyright) governing the use of material from
+Please observe the posted [copyright notices](/copyright) governing the use of material from
 this page.
 
 In submission
@@ -27,5 +27,5 @@ In revision
   <br /> *International Workshop on Traceability in Emerging Forms of Software
   Engineering* ([TEFSE'11](http://www.cs.wm.edu/semeru/tefse2011))
   <br /> (acceptance rate 44%)
-  <br /> [[Slides]](/~cscorley/_static/slides/tefse11.pdf)
+  <br /> [[Slides]](/_static/slides/tefse11.pdf)
   [[Paper]](http://dx.doi.org/10.1145/1987856.1987863)

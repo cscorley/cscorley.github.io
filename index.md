@@ -16,7 +16,6 @@ advisor is [Dr. Nicholas Kraft](http://cs.ua.edu/~nkraft/).
 
 News
 ----
-* Spring courses begin. Taking: CS 557, CS 575, and CS 691 (Software Evolution)
 * Paper accepted at [ICPC'12](http://icpc12.sosy-lab.org/):
   [Modeling the Ownership of Source Code Topics](http://software.eng.ua.edu/reports/SERG-2012-01) (new title)
 * PC member for [ACM Southeast Conference 2012](http://cs.ua.edu/acmse2012/) 
