@@ -17,7 +17,9 @@ In revision
   <br /> C.S. Corley, E.A. Kammer, and N.A. Kraft
   <br /> *IEEE International Conference on Program Comprehension* ([ICPC'12](http://icpc12.sosy-lab.org/))
   <br /> (acceptance rate 41%)
-  <br /> [[Tech report]](http://software.eng.ua.edu/reports/SERG-2012-01)
+  <br />
+  [[Slides]](https://speakerdeck.com/u/cscorley/p/modeling-the-ownership-of-source-code-topics)
+  [[Tech report]](http://software.eng.ua.edu/reports/SERG-2012-01)
 
 
 2011
