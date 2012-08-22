@@ -4,7 +4,7 @@
 <span class="vita-table">
 
 ------------------------------ ------------------------------------------------
-Department of Computer Science                    <http://cs.ua.edu/~cscorley/>
+Department of Computer Science           <http://students.cs.ua.edu/~cscorley/>
 The University of Alabama           <span class="mail"><cscorley@ua.edu></span>
 Tuscaloosa, AL 35487-0290, USA
 ------------------------------ ------------------------------------------------

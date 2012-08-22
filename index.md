@@ -16,11 +16,12 @@ advisor is [Dr. Nicholas Kraft](http://cs.ua.edu/~nkraft/).
 
 News
 ----
+* PhD Qualifier talk on Triaging Incoming Change Requests on
+  [August 27](http://cs.ua.edu/research/colloquium-series/).
+* Fall semester begins. Courses: CS503, CS567.
 * Paper accepted at [ICPC'12](http://icpc12.sosy-lab.org/):
   [Modeling the Ownership of Source Code Topics](http://software.eng.ua.edu/reports/SERG-2012-01) (new title)
-* PC member for [ACM Southeast Conference 2012](http://cs.ua.edu/acmse2012/) 
-* Volunteering at the [Alabama Robotics Competition](http://www.cs.ua.edu/outreach/robotics-contest/)
-* Mentoring this summer in our [Research Experience for Undergraduates](http://reu.cs.ua.edu/) site
+* PC member for [ACM Southeast Conference 2012](http://cs.ua.edu/acmse2012/)
 
 Contact
 -------
