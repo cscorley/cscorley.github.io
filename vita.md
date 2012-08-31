@@ -69,11 +69,12 @@ Program Committee Member
 Conference and Workshop Attendance
 --------------------------------
 
+- 20^th^ IEEE Int'l Conf. on Program Comprehension ([ICPC'12](http://icpc12.sosy-lab.org/))
 - 50^th^ ACM Southeast Conf. ([ACM SE'12](http://cs.ua.edu/acmse2012/))
-- 27^th^ Int'l Conf. on Software Maintenance
+- 27^th^ IEEE Int'l Conf. on Software Maintenance
 ([ICSM'11](http://www.cs.wm.edu/icsm2011))
 - 8^th^ Working Conf. on Mining Software Repositories ([MSR'11](http://2011.msrconf.org/))
-- 6^th^ Int'l Wksp. on Traceability in Emerging Forms of Software Engineering ([TEFSE'11](http://www*.cs.wm.edu/semeru/tefse2011))
+- 6^th^ Int'l Wksp. on Traceability in Emerging Forms of Software Engineering ([TEFSE'11](http://www.cs.wm.edu/semeru/tefse2011))
 - 48^th^ ACM Southeast Conf. ([ACM SE'10](http://www.cs.oldemiss.edu/acmse2010/))
 
 Professional Memberships
