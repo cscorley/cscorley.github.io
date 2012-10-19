@@ -16,9 +16,8 @@ advisor is [Dr. Nicholas Kraft](http://cs.ua.edu/~nkraft/).
 
 News
 ----
-* PhD Qualifier talk on Triaging Incoming Change Requests on
-  [August 27](http://cs.ua.edu/research/colloquium-series/).
-* Fall semester begins. Courses: CS503, CS567.
+* Passed PhD Qualifier Exam
+* Fall semester begins. Courses: CS503, CS567
 * Paper accepted at [ICPC'12](http://icpc12.sosy-lab.org/):
   [Modeling the Ownership of Source Code Topics](http://software.eng.ua.edu/reports/SERG-2012-01) (new title)
 * PC member for [ACM Southeast Conference 2012](http://cs.ua.edu/acmse2012/)
@@ -29,5 +28,5 @@ Department of Computer Science<br />
 University of Alabama<br />
 Tuscaloosa, Alabama 35487-0290<br />
 Office: 2031 Shelby Hall<br />
-Email: <span class="mail">[cscorley@ua.edu](mailto:cscorley@ua.edu)</span><br />
+Email: <span class="mail">[cscorley@crimson.ua.edu](mailto:cscorley@crimson.ua.edu)</span><br />
 Twitter: [@excsc](http://twitter.com/excsc)<br />
