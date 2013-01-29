@@ -14,14 +14,6 @@ I am part of the [Software Engineering Research Group](http://software.eng.ua.ed
  and a [GAANN](http://gaann.cs.ua.edu/) fellow. My
 advisor is [Dr. Nicholas Kraft](http://cs.ua.edu/~nkraft/).
 
-News
-----
-* Passed PhD Qualifier Exam
-* Fall semester begins. Courses: CS503, CS567
-* Paper accepted at [ICPC'12](http://icpc12.sosy-lab.org/):
-  [Modeling the Ownership of Source Code Topics](http://software.eng.ua.edu/reports/SERG-2012-01) (new title)
-* PC member for [ACM Southeast Conference 2012](http://cs.ua.edu/acmse2012/)
-
 Contact
 -------
 Department of Computer Science<br />

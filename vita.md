@@ -23,7 +23,7 @@ Education
     - B.S. Computer Science, May 2011
 
 Professional Experience
-======================
+=======================
 
 - University of North Alabama, Mathematics & Computer Science, 2010 -- 2011
     - Undergraduate Lab Assistant
@@ -50,6 +50,7 @@ Publications
 
 Refereed Conference and Workshop Proceedings
 --------------------------------------------
+
 - **C.S. Corley**, E.A. Kammer, and N.A. Kraft,
 "Modeling the Ownership of Source Code Topics,"
 *Proc. of the 20^th^ IEEE International Conference on Program
@@ -85,22 +86,41 @@ Conference and Workshop Attendance
 - 48^th^ ACM Southeast Conference ([ACM SE'10](http://www.cs.oldemiss.edu/acmse2010/))
 
 Professional Memberships
-==========================
+------------------------
 
 - IEEE, 2011 -- present
 - IEEE Computer Society, 2011 -- present
 - Association for Computing Machinery, 2008 -- present
     - Local chapter (Univ. of North Ala.) Student President, 2009 -- 2011
+- ACM Special Interest Group on Software Engineering (SIGSOFT), 2012 -- present
 
+Teaching
+========
+
+- *Assistant* CS 315 - Software Engineering (Spring 2013)
+    - Instructor: [Nicholas A. Kraft](http://cs.ua.edu/~nkraft/)
+    - [100P](http://100p.cs.ua.edu/) course
+
+Academic Service
+================
+
+- *Mentoring* [Tide Together](http://graduate.ua.edu/tidetogether/) Peer
+  Mentor, 2012 -- 2013 school year
+- *Outreach* [Alabama Robotics Competition](http://outreach.cs.ua.edu/robotics-contest/) Assistant &
+  Judge, Spring 2012
+
+<!--
 Graduate Courses
 ================
 
-- CS 515 - Software Design and Development
-- CS 526 - Introduction to Operating Systems
-- CS 600 - Foundations of Software Engineering
-- CS 557 - Database Management Systems
-- CS 575 - Formal Languages and Machines
-- CS 691 - Special Topics: Software Evolution
-- CS 503 - Programming Languages
-- CS 567 - Computer Systems Architecture
-
+- CS 515 - Software Design and Development (Fall 2011)
+- CS 526 - Introduction to Operating Systems (Fall 2011)
+- CS 600 - Foundations of Software Engineering (Fall 2011)
+- CS 557 - Database Management Systems (Spring 2012)
+- CS 575 - Formal Languages and Machines (Spring 2012)
+- CS 691 - Special Topics: Software Evolution (Spring 2012)
+- CS 503 - Programming Languages (Fall 2012)
+- CS 567 - Computer Systems Architecture (Fall 2012)
+- CS 535 - Computer Graphics (Spring 2013)
+- CS 630 - Empirical Software Engineering (Spring 2013)
+-->
