@@ -30,7 +30,6 @@ Professional Experience
 
 - University of North Alabama, Academic Resource Center, 2008 -- 2011
     - Undergraduate Computer Science Tutor
-    - Led group studies as well as individual tutoring
 
 Fellowships and Awards
 ======================
@@ -62,7 +61,7 @@ Passau, Bavaria, Germany, 10 pages, June 2012
 "Recovering Traceability Links between Source Code and Fixed Bugs via Patch
 Analysis,"
 *Proc. of the 6^th^ International Workshop on Traceability in Emerging Forms of Software
-Engineering*, ([TEFSE'11](http://www*.cs.wm.edu/semeru/tefse2011)),
+Engineering*, ([TEFSE'11](http://www.cs.wm.edu/semeru/tefse2011)),
 Honolulu, Hawaii, USA, 7 pages, May 2011
 (acceptance rate 44%).
 
@@ -72,18 +71,17 @@ Professional Activities
 Program Committee Member
 ------------------------
 
-- 50^th^ ACM Southeast Conf. ([ACM SE'12](http://cs.ua.edu/acmse2012/))
+- 50^th^ ACM Southeast Conf. ([ACMSE'12](http://cs.ua.edu/acmse2012/))
 
 Conference and Workshop Attendance
 --------------------------------
 
 - 20^th^ IEEE International Conference on Program Comprehension ([ICPC'12](http://icpc12.sosy-lab.org/))
-- 50^th^ ACM Southeast Conference ([ACM SE'12](http://cs.ua.edu/acmse2012/))
-- 27^th^ IEEE International Conference on Software Maintenance
-([ICSM'11](http://www.cs.wm.edu/icsm2011))
+- 50^th^ ACM Southeast Conference ([ACMSE'12](http://cs.ua.edu/acmse2012/))
+- 27^th^ IEEE International Conference on Software Maintenance ([ICSM'11](http://www.cs.wm.edu/icsm2011))
 - 8^th^ Working Conference on Mining Software Repositories ([MSR'11](http://2011.msrconf.org/))
 - 6^th^ International Workshop on Traceability in Emerging Forms of Software Engineering ([TEFSE'11](http://www.cs.wm.edu/semeru/tefse2011))
-- 48^th^ ACM Southeast Conference ([ACM SE'10](http://www.cs.oldemiss.edu/acmse2010/))
+- 48^th^ ACM Southeast Conference ([ACMSE'10](http://www.cs.oldemiss.edu/acmse2010/))
 
 Professional Memberships
 ------------------------
@@ -97,17 +95,20 @@ Professional Memberships
 Teaching
 ========
 
-- *Assistant* CS 315 - Software Engineering (Spring 2013)
+- *Assistant*, CS 315 - Software Engineering (Spring 2013)
     - Instructor: [Nicholas A. Kraft](http://cs.ua.edu/~nkraft/)
     - [100P](http://100p.cs.ua.edu/) course
 
 Academic Service
 ================
 
-- *Mentoring* [Tide Together](http://graduate.ua.edu/tidetogether/) Peer
-  Mentor, 2012 -- 2013 school year
-- *Outreach* [Alabama Robotics Competition](http://outreach.cs.ua.edu/robotics-contest/) Assistant &
+- *Mentoring*, [Research Experience for Undergraduates](http://reu.cs.ua.edu/)
+  Mentor, 2011-2013
+- *Mentoring*, [Tide Together](http://graduate.ua.edu/tidetogether/)
+  Peer Mentor, 2012 -- 2013 academic year
+- *Outreach*, [Alabama Robotics Competition](http://outreach.cs.ua.edu/robotics-contest/) Assistant &
   Judge, Spring 2012
+- *Student Volunteer*, 50^th^ ACM Southeast Conference ([ACMSE'12](http://cs.ua.edu/acmse2012/))
 
 <!--
 Graduate Courses
