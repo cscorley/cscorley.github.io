@@ -50,20 +50,26 @@ Publications
 Refereed Conference and Workshop Proceedings
 --------------------------------------------
 
+- A. Bosu, **C.S. Corley**, D. Heaton, D. Chatterji, J.C. Carver, and N.A. Kraft
+    "Building Reputation in StackOverflow: An Empirical Investigation,"
+    *10^th^ Working Conference on Mining Software Repositories --- Mining Challenge*
+    ([MSR'13](http://2013.msrconf.org/)),
+    San Francisco, California, USA, 4 pages, May 2013
+    (acceptance rate: 41%).
 - **C.S. Corley**, E.A. Kammer, and N.A. Kraft,
-"Modeling the Ownership of Source Code Topics,"
-*Proc. of the 20^th^ IEEE International Conference on Program
-Comprehension*
-([ICPC'12](http://icpc12.sosy-lab.org/)),
-Passau, Bavaria, Germany, 10 pages, June 2012
-(acceptance rate 41%).
+    "Modeling the Ownership of Source Code Topics,"
+    *Proc. of the 20^th^ IEEE International Conference on Program
+    Comprehension*
+    ([ICPC'12](http://icpc12.sosy-lab.org/)),
+    Passau, Bavaria, Germany, 10 pages, June 2012
+    (acceptance rate 41%).
 - **C.S. Corley**, N.A. Kraft, L.H. Etzkorn, and S.K. Lukins,
-"Recovering Traceability Links between Source Code and Fixed Bugs via Patch
-Analysis,"
-*Proc. of the 6^th^ International Workshop on Traceability in Emerging Forms of Software
-Engineering*, ([TEFSE'11](http://www.cs.wm.edu/semeru/tefse2011)),
-Honolulu, Hawaii, USA, 7 pages, May 2011
-(acceptance rate 44%).
+    "Recovering Traceability Links between Source Code and Fixed Bugs via Patch
+    Analysis,"
+    *Proc. of the 6^th^ International Workshop on Traceability in Emerging Forms of Software
+    Engineering*, ([TEFSE'11](http://www.cs.wm.edu/semeru/tefse2011)),
+    Honolulu, Hawaii, USA, 7 pages, May 2011
+    (acceptance rate 44%).
 
 Professional Activities
 =======================
