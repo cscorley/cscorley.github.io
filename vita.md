@@ -16,7 +16,7 @@ Education
 =========
 
 - University of Alabama, Tuscaloosa, Alabama, USA
-    - Ph.D. Computer Science, *expected* May 2015
+    - Ph.D. Computer Science, *expected* May 2016
     - Advisor: [Nicholas A. Kraft](http://cs.ua.edu/~nkraft/)
 
 - University of North Alabama, Florence, Alabama, USA
@@ -58,7 +58,7 @@ Refereed Conference and Workshop Proceedings
     (acceptance rate: 41%).
 - **C.S. Corley**, E.A. Kammer, and N.A. Kraft,
     "Modeling the Ownership of Source Code Topics,"
-    *Proc. of the 20^th^ IEEE International Conference on Program
+    *Proceedings of the 20^th^ IEEE International Conference on Program
     Comprehension*
     ([ICPC'12](http://icpc12.sosy-lab.org/)),
     Passau, Bavaria, Germany, 10 pages, June 2012
@@ -66,7 +66,7 @@ Refereed Conference and Workshop Proceedings
 - **C.S. Corley**, N.A. Kraft, L.H. Etzkorn, and S.K. Lukins,
     "Recovering Traceability Links between Source Code and Fixed Bugs via Patch
     Analysis,"
-    *Proc. of the 6^th^ International Workshop on Traceability in Emerging Forms of Software
+    *Proceedings of the 6^th^ International Workshop on Traceability in Emerging Forms of Software
     Engineering*, ([TEFSE'11](http://www.cs.wm.edu/semeru/tefse2011)),
     Honolulu, Hawaii, USA, 7 pages, May 2011
     (acceptance rate 44%).
@@ -77,7 +77,13 @@ Professional Activities
 Program Committee Member
 ------------------------
 
-- 50^th^ ACM Southeast Conf. ([ACMSE'12](http://cs.ua.edu/acmse2012/))
+- 50^th^ ACM Southeast Conference ([ACMSE'12](http://cs.ua.edu/acmse2012/))
+
+External Reviewer
+-----------------
+
+- 7^th^ International Workshop on Traceability in Emerging Forms of
+  Software Engineering ([TEFSE'13](http://www.cse.msstate.edu/~tefse13/))
 
 Conference and Workshop Attendance
 --------------------------------
@@ -95,7 +101,7 @@ Professional Memberships
 - IEEE, 2011 -- present
 - IEEE Computer Society, 2011 -- present
 - Association for Computing Machinery, 2008 -- present
-    - Local chapter (Univ. of North Ala.) Student President, 2009 -- 2011
+    - Local chapter (University of North Alabama) Student President, 2009 -- 2011
 - ACM Special Interest Group on Software Engineering (SIGSOFT), 2012 -- present
 
 Teaching
@@ -109,11 +115,11 @@ Academic Service
 ================
 
 - *Mentoring*, [Research Experience for Undergraduates](http://reu.cs.ua.edu/)
-  Mentor, 2011-2013
+  Mentor, 2011 -- 2013
 - *Mentoring*, [Tide Together](http://graduate.ua.edu/tidetogether/)
   Peer Mentor, 2012 -- 2013 academic year
 - *Outreach*, [Alabama Robotics Competition](http://outreach.cs.ua.edu/robotics-contest/) Assistant &
-  Judge, Spring 2012
+  Judge, 2012 & 2013
 - *Student Volunteer*, 50^th^ ACM Southeast Conference ([ACMSE'12](http://cs.ua.edu/acmse2012/))
 
 <!--
