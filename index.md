@@ -19,6 +19,9 @@ Contact
 Department of Computer Science<br />
 University of Alabama<br />
 Tuscaloosa, Alabama 35487-0290<br />
-Office: 2031 Shelby Hall<br />
+Office: Science and Engineering Complex 3420<br />
+Hours: Tu/Th, 12:30pm -- 2pm<br />
 Email: <span class="mail">[cscorley@crimson.ua.edu](mailto:cscorley@crimson.ua.edu)</span><br />
 Twitter: [@excsc](http://twitter.com/excsc)<br />
+
+

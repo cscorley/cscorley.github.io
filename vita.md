@@ -117,7 +117,7 @@ Academic Service
 - *Mentoring*, [Research Experience for Undergraduates](http://reu.cs.ua.edu/)
   Mentor, 2011 -- 2013
 - *Mentoring*, [Tide Together](http://graduate.ua.edu/tidetogether/)
-  Peer Mentor, 2012 -- 2013 academic year
+  Peer Mentor, 2012 -- 2014
 - *Outreach*, [Alabama Robotics Competition](http://outreach.cs.ua.edu/robotics-contest/) Assistant &
   Judge, 2012 & 2013
 - *Student Volunteer*, 50^th^ ACM Southeast Conference ([ACMSE'12](http://cs.ua.edu/acmse2012/))
