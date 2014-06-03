@@ -34,7 +34,7 @@ Fellowships and Awards
 
 - Graduate Assistance in Areas of National Need
   ([GAANN](http://gaann.cs.ua.edu/)) Doctoral Fellowship,
-  2011 -- 2015
+  2011 -- 2016
 - Research Assistantship -- Improved Code Clone Categorization
   (NSF [0915559](http://nsf.gov/awardsearch/showAward.do?AwardNumber=0915559)
  & [0915403](http://nsf.gov/awardsearch/showAward.do?AwardNumber=0915403)),
@@ -128,10 +128,20 @@ Academic Service
 
 - *Mentoring*, [Research Experience for Undergraduates](http://reu.cs.ua.edu/)
   Mentor, 2011 -- 2014
+    - 2014:
+        Daniel S. May (Swarthmore College), 
+        Kelly L. Kashuda (University of Alabama)
+    - 2013:
+        Nathan Klein (Oberlin College)
 - *Mentoring*, [Tide Together](http://graduate.ua.edu/tidetogether/)
   Peer Mentor, 2012 -- 2014
+    - 2013:
+        Erik R. Kline (PhD student, English, University of Alabama) 
+    - 2012:
+        Matt Jones (MFA student, Creative Writing, University of Alabama)
 - *Outreach*, [Alabama Robotics Competition](http://outreach.cs.ua.edu/robotics-contest/)
     Assistant & Judge, 2012 -- 2014
 - *Volunteer*, [Tuscaloosa Public Library](http://www.tuscaloosa-library.org/)
     Teen Zone: GeoTech Lab, Summer 2014
 - *Student Volunteer*, 50^th^ ACM Southeast Conference ([ACMSE'12](http://cs.ua.edu/acmse2012/))
+
