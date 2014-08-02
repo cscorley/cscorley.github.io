@@ -48,9 +48,14 @@ Publications
 Refereed Conference and Workshop Proceedings
 --------------------------------------------
 
+- **C.S. Corley**, K.L. Kashuda, D.S. May, and N.A. Kraft
+    "Modeling Changeset Topics"
+    *4^th^ Workshop on Mining Unstructured Data*
+    ([MUD'14](http://sback.it/mud2014/))
+    Victoria, British Columbia, Canada, to appear.
 - N. Klein, **C.S. Corley**, and N.A. Kraft
     "New Features for Duplicate Bug Detection"
-    *11^th^ Working Conference on Mining Software Repositories* 
+    *11^th^ Working Conference on Mining Software Repositories*
     ([MSR'14](http://2014.msrconf.org/)),
     Hyderabad, India, 4 pages, May 2014
     (acceptance rate: 37% for short papers).
@@ -90,6 +95,8 @@ Program Committee Member
 External Reviewer
 -----------------
 
+- 30^th^ International Conference on Software Maintenance and Evolution --
+    Early Research Achievements Track ([ICSME'14](http://www.icsme.org/))
 - 7^th^ International Workshop on Traceability in Emerging Forms of
   Software Engineering ([TEFSE'13](http://www.cse.msstate.edu/~tefse13/))
 
@@ -129,14 +136,14 @@ Academic Service
 - *Mentoring*, [Research Experience for Undergraduates](http://reu.cs.ua.edu/)
   Mentor, 2011 -- 2014
     - 2014:
-        Daniel S. May (Swarthmore College), 
+        Daniel S. May (Swarthmore College),
         Kelly L. Kashuda (University of Alabama)
     - 2013:
         Nathan Klein (Oberlin College)
 - *Mentoring*, [Tide Together](http://graduate.ua.edu/tidetogether/)
   Peer Mentor, 2012 -- 2014
     - 2013:
-        Erik R. Kline (PhD student, English, University of Alabama) 
+        Erik R. Kline (PhD student, English, University of Alabama)
     - 2012:
         Matt Jones (MFA student, Creative Writing, University of Alabama)
 - *Outreach*, [Alabama Robotics Competition](http://outreach.cs.ua.edu/robotics-contest/)
