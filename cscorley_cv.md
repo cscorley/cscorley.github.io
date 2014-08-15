@@ -48,13 +48,18 @@ Publications
 Refereed Conference and Workshop Proceedings
 --------------------------------------------
 
-- N. Klein, **C.S. Corley**, and N.A. Kraft
-    "New Features for Duplicate Bug Detection"
+- **C.S. Corley**, K.A. Kashuda, D.S. May, and N.A. Kraft,
+    "Modeling Changeset Topics",
+    *4^th^ Workshop on Mining Unstructured Data*
+    ([MUD'14](http://sback.it/mud2014/)),
+    Victoria, British Columbia, Canada, 5 pages, September 2014.
+- N. Klein, **C.S. Corley**, and N.A. Kraft,
+    "New Features for Duplicate Bug Detection",
     *11^th^ Working Conference on Mining Software Repositories* 
     ([MSR'14](http://2014.msrconf.org/)),
     Hyderabad, India, 4 pages, May 2014
     (acceptance rate: 37% for short papers).
-- A. Bosu, **C.S. Corley**, D. Heaton, D. Chatterji, J.C. Carver, and N.A. Kraft
+- A. Bosu, **C.S. Corley**, D. Heaton, D. Chatterji, J.C. Carver, and N.A. Kraft,
     "Building Reputation in StackOverflow: An Empirical Investigation,"
     *10^th^ Working Conference on Mining Software Repositories ---
     Mining Challenge*
@@ -90,6 +95,8 @@ Program Committee Member
 External Reviewer
 -----------------
 
+- 30^th^ International Conference on Software Maintenance and Evolution --
+    Early Research Achievements Track ([ICSME'14](http://www.icsme.org/))
 - 7^th^ International Workshop on Traceability in Emerging Forms of
   Software Engineering ([TEFSE'13](http://www.cse.msstate.edu/~tefse13/))
 

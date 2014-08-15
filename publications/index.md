@@ -9,12 +9,22 @@ this page.
 2014
 ----
 
+- Modeling Changeset Topics
+    <br /> **C.S. Corley**, K.A. Kashuda, D.S. May, and N.A. Kraft
+    <br />  *Workshop on Mining Unstructured Data*
+    ([MUD'14](http://sback.it/mud2014/))
+    <br />
+        [[PDF]](/publications/pdfs/Corley-etal_14.pdf)
+        [[Code]](http://www.github.com/cscorley/mud2014-modeling-changeset-topics)
+
+
 * New Features for Duplicate Bug Detection
     <br /> N. Klein, **C.S. Corley**, and N.A. Kraft
     <br />  *Working Conference on Mining Software Repositories* 
     ([MSR'14](http://2014.msrconf.org/))
     <br />
         [[PDF]](/publications/pdfs/Klein-etal_14.pdf)
+        [[DOI]](http://dx.doi.org/10.1145/2597073.2597090)
 
 2013
 ----
@@ -33,10 +43,10 @@ this page.
     <br /> **C.S. Corley**, E.A. Kammer, and N.A. Kraft
     <br /> *IEEE International Conference on Program Comprehension* ([ICPC'12](http://icpc12.sosy-lab.org/))
     <br />
-        [[PDF]](http://software.eng.ua.edu/reports/SERG-2012-01)
+        [[PDF]](/publications/pdfs/Corley-etal_12.pdf)
         [[DOI]](http://dx.doi.org/10.1109/ICPC.2012.6240485)
         [[Slides]](https://speakerdeck.com/cscorley/modeling-the-ownership-of-source-code-topics)
-        [[Tool]](https://github.com/software-eng-ua-edu/ohm/)
+        [[Code]](https://github.com/software-eng-ua-edu/ohm/)
 
 
 2011
