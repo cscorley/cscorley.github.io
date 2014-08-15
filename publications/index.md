@@ -16,11 +16,9 @@ this page.
     <br />
         [[PDF]](/publications/pdfs/Corley-etal_14.pdf)
         [[Code]](http://www.github.com/cscorley/mud2014-modeling-changeset-topics)
-
-
-* New Features for Duplicate Bug Detection
+- New Features for Duplicate Bug Detection
     <br /> N. Klein, **C.S. Corley**, and N.A. Kraft
-    <br />  *Working Conference on Mining Software Repositories* 
+    <br /> *Working Conference on Mining Software Repositories*
     ([MSR'14](http://2014.msrconf.org/))
     <br />
         [[PDF]](/publications/pdfs/Klein-etal_14.pdf)
@@ -28,7 +26,8 @@ this page.
 
 2013
 ----
-* Building Reputation in StackOverflow: An Empirical Investigation
+
+- Building Reputation in StackOverflow: An Empirical Investigation
     <br /> A. Bosu, **C.S. Corley**, D. Heaton, D. Chatterji, J.C. Carver, and N.A.
     Kraft
     <br /> *Working Conference on Mining Software Repositories --- Mining
@@ -39,7 +38,8 @@ this page.
 
 2012
 ----
-* Modeling the Ownership of Source Code Topics
+
+- Modeling the Ownership of Source Code Topics
     <br /> **C.S. Corley**, E.A. Kammer, and N.A. Kraft
     <br /> *IEEE International Conference on Program Comprehension* ([ICPC'12](http://icpc12.sosy-lab.org/))
     <br />
@@ -51,7 +51,8 @@ this page.
 
 2011
 ----
-* Recovering Traceability Links between Source Code and Fixed Bugs via Patch Analysis
+
+- Recovering Traceability Links between Source Code and Fixed Bugs via Patch Analysis
     <br /> **C.S. Corley**, N.A. Kraft, L.H. Etzkorn, and S.K. Lukins
     <br /> *International Workshop on Traceability in Emerging Forms of Software
     Engineering* ([TEFSE'11](http://www.cs.wm.edu/semeru/tefse2011))

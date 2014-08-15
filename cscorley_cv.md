@@ -136,14 +136,14 @@ Academic Service
 - *Mentoring*, [Research Experience for Undergraduates](http://reu.cs.ua.edu/)
   Mentor, 2011 -- 2014
     - 2014:
-        Daniel S. May (Swarthmore College), 
+        Daniel S. May (Swarthmore College),
         Kelly L. Kashuda (University of Alabama)
     - 2013:
         Nathan Klein (Oberlin College)
 - *Mentoring*, [Tide Together](http://graduate.ua.edu/tidetogether/)
   Peer Mentor, 2012 -- 2014
     - 2013:
-        Erik R. Kline (PhD student, English, University of Alabama) 
+        Erik R. Kline (PhD student, English, University of Alabama)
     - 2012:
         Matt Jones (MFA student, Creative Writing, University of Alabama)
 - *Outreach*, [Alabama Robotics Competition](http://outreach.cs.ua.edu/robotics-contest/)
