@@ -17,8 +17,14 @@ Education
     - Previous advisor: [Nicholas A. Kraft](http://nkraft.cs.ua.edu),
     now at [ABB Research](http://www.abb.com)
 
+- University of Alabama, Tuscaloosa, Alabama, USA
+    - M.S. Computer Science, August 2014
+    - Advisor: [Nicholas A. Kraft](http://nkraft.cs.ua.edu)
+
 - University of North Alabama, Florence, Alabama, USA
     - B.S. Computer Science, May 2011
+
+
 
 Professional Experience
 =======================
@@ -29,12 +35,15 @@ Professional Experience
 - University of North Alabama, Academic Resource Center, 2008 -- 2011
     - Undergraduate Computer Science Tutor
 
+
+
 Fellowships and Awards
 ======================
 
 - Graduate Assistance in Areas of National Need
   ([GAANN](http://gaann.cs.ua.edu/)) Doctoral Fellowship,
   2011 -- 2016
+
 - Research Assistantship -- Improved Code Clone Categorization
   (NSF [0915559](http://nsf.gov/awardsearch/showAward.do?AwardNumber=0915559)
  & [0915403](http://nsf.gov/awardsearch/showAward.do?AwardNumber=0915403)),
@@ -42,11 +51,12 @@ Fellowships and Awards
 - Research Experience for Undergraduates ([REU-SLE](http://reu.cs.ua.edu/)),
   2009 & 2010
 
+
+
 Publications
 ============
 
-Refereed Conference and Workshop Proceedings
---------------------------------------------
+### Refereed Conference and Workshop Proceedings
 
 - **C.S. Corley**, K.A. Kashuda, D.S. May, and N.A. Kraft,
     "Modeling Changeset Topics",
@@ -55,7 +65,7 @@ Refereed Conference and Workshop Proceedings
     Victoria, British Columbia, Canada, 5 pages, September 2014.
 - N. Klein, **C.S. Corley**, and N.A. Kraft,
     "New Features for Duplicate Bug Detection",
-    *11^th^ Working Conference on Mining Software Repositories* 
+    *11^th^ Working Conference on Mining Software Repositories*
     ([MSR'14](http://2014.msrconf.org/)),
     Hyderabad, India, 4 pages, May 2014
     (acceptance rate: 37% for short papers).
@@ -82,26 +92,27 @@ Refereed Conference and Workshop Proceedings
     Honolulu, Hawaii, USA, 7 pages, May 2011
     (acceptance rate 44%).
 
+
+
 Professional Activities
 =======================
 
-Program Committee Member
-------------------------
+### Program Committee Member
 
 - 30^th^ International Conference on Software Maintenance and Evolution --
     Tool Demo Track ([ICSME'14](http://www.icsme.org/))
 - 50^th^ ACM Southeast Conference ([ACMSE'12](http://cs.ua.edu/acmse2012/))
 
-External Reviewer
------------------
+
+### External Reviewer
 
 - 30^th^ International Conference on Software Maintenance and Evolution --
     Early Research Achievements Track ([ICSME'14](http://www.icsme.org/))
 - 7^th^ International Workshop on Traceability in Emerging Forms of
   Software Engineering ([TEFSE'13](http://www.cse.msstate.edu/~tefse13/))
 
-Conference and Workshop Attendance
---------------------------------
+
+### Conference and Workshop Attendance
 
 - 11^th^ Working Conference on Mining Software Repositories ([MSR'14](http://2014.msrconf.org/))
 - 22^nd^ IEEE International Conference on Program Comprehension ([ICPC'14](http://icpc2014.usask.ca/))
@@ -112,14 +123,16 @@ Conference and Workshop Attendance
 - 6^th^ International Workshop on Traceability in Emerging Forms of Software Engineering ([TEFSE'11](http://www.cs.wm.edu/semeru/tefse2011))
 - 48^th^ ACM Southeast Conference ([ACMSE'10](http://www.cs.oldemiss.edu/acmse2010/))
 
-Professional Memberships
-------------------------
+
+### Professional Memberships
 
 - IEEE, 2011 -- present
 - IEEE Computer Society, 2011 -- present
 - Association for Computing Machinery, 2008 -- present
     - Local chapter (University of North Alabama) Student President, 2009 -- 2011
 - ACM Special Interest Group on Software Engineering (SIGSOFT), 2012 -- present
+
+
 
 Teaching
 ========
@@ -130,25 +143,33 @@ Teaching
     - Instructor: [Nicholas A. Kraft](http://nkraft.cs.ua.edu/)
     - [100P](http://100p.cs.ua.edu/) course
 
+
+
 Academic Service
 ================
 
-- *Mentoring*, [Research Experience for Undergraduates](http://reu.cs.ua.edu/)
+### Mentoring
+
+- [Research Experience for Undergraduates](http://reu.cs.ua.edu/)
   Mentor, 2011 -- 2014
     - 2014:
         Daniel S. May (Swarthmore College),
         Kelly L. Kashuda (University of Alabama)
     - 2013:
-        Nathan Klein (Oberlin College)
-- *Mentoring*, [Tide Together](http://graduate.ua.edu/tidetogether/)
+        [Nathan Klein](http://cs.oberlin.edu/~nklein/) (Oberlin College)
+- [Tide Together](http://graduate.ua.edu/tidetogether/)
   Peer Mentor, 2012 -- 2014
     - 2013:
-        Erik R. Kline (PhD student, English, University of Alabama)
+        [Erik R. Kline](http://english.ua.edu/user/604) (PhD student, English, University of Alabama)
     - 2012:
-        Matt Jones (MFA student, Creative Writing, University of Alabama)
-- *Outreach*, [Alabama Robotics Competition](http://outreach.cs.ua.edu/robotics-contest/)
+        [Matthew Jones](http://english.ua.edu/user/471) (MFA student, Creative Writing, University of Alabama)
+
+
+### Volunteering
+
+- [Alabama Robotics Competition](http://outreach.cs.ua.edu/robotics-contest/)
     Assistant & Judge, 2012 -- 2014
-- *Volunteer*, [Tuscaloosa Public Library](http://www.tuscaloosa-library.org/)
+- [Tuscaloosa Public Library](http://www.tuscaloosa-library.org/)
     Teen Zone: GeoTech Lab, Summer 2014
-- *Student Volunteer*, 50^th^ ACM Southeast Conference ([ACMSE'12](http://cs.ua.edu/acmse2012/))
+- 50^th^ ACM Southeast Conference ([ACMSE'12](http://cs.ua.edu/acmse2012/))
 
