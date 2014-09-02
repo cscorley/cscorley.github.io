@@ -10,14 +10,16 @@ title: Christopher S. Corley
 
 I am a Ph.D. Graduate Student in the [Department of Computer Science](http://cs.ua.edu/)
 at the [University of Alabama](http://www.ua.edu/).
-My research interests are in software engineering and maintenance.
+My research interests are in software engineering and maintenance,
+specifically applications of topic modeling to automation of software
+maintenance tasks.
 I am part of the [Software Engineering Research Group](http://software.eng.ua.edu/)
-and a [GAANN](http://gaann.cs.ua.edu/) fellow.
+and a former [GAANN](http://gaann.cs.ua.edu/) fellow.
 My current advisor is [Dr. Jeffrey C. Carver](http://carver.cs.ua.edu/).
 I was previously advised by [Dr. Nicholas A. Kraft](http://nkraft.cs.ua.edu/).
 
 Here is a list of my [publications](/publications)
-and my current [vita](/cscorley_cv.pdf).
+and my [vita](/cscorley_cv.pdf).
 
 
 Contact

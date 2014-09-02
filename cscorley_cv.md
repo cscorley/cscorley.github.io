@@ -58,7 +58,7 @@ Publications
 
 ### Refereed Conference and Workshop Proceedings
 
-- **C.S. Corley**, K.A. Kashuda, D.S. May, and N.A. Kraft,
+- **C.S. Corley**, K.L. Kashuda, D.S. May, and N.A. Kraft,
     "Modeling Changeset Topics",
     *4^th^ Workshop on Mining Unstructured Data*
     ([MUD'14](http://sback.it/mud2014/)),

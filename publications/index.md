@@ -10,7 +10,7 @@ this page.
 ----
 
 - Modeling Changeset Topics
-    <br /> **C.S. Corley**, K.A. Kashuda, D.S. May, and N.A. Kraft
+    <br /> **C.S. Corley**, K.L. Kashuda, D.S. May, and N.A. Kraft
     <br />  *Workshop on Mining Unstructured Data*
     ([MUD'14](http://sback.it/mud2014/))
     <br />
