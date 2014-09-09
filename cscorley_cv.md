@@ -12,7 +12,7 @@ Education
 =========
 
 - University of Alabama, Tuscaloosa, Alabama, USA
-    - Ph.D. Computer Science, *expected* May 2016
+    - PhD Computer Science, *expected* May 2016
     - Advisor: [Jeffrey C. Carver](http://carver.cs.ua.edu)
     - Previous advisor: [Nicholas A. Kraft](http://nkraft.cs.ua.edu),
     now at [ABB Research](http://www.abb.com)
@@ -48,6 +48,7 @@ Fellowships and Awards
   (NSF [0915559](http://nsf.gov/awardsearch/showAward.do?AwardNumber=0915559)
  & [0915403](http://nsf.gov/awardsearch/showAward.do?AwardNumber=0915403)),
  2011
+
 - Research Experience for Undergraduates ([REU-SLE](http://reu.cs.ua.edu/)),
   2009 & 2010
 
@@ -114,6 +115,8 @@ Professional Activities
 
 ### Conference and Workshop Attendance
 
+- 30^th^ IEEE International Conference on Software Maintenance and Evolution ([ICSME'14](http://www.icsme.org/2014))
+- 4^th^ Workshop on Mining Unstructured Data ([MUD'14](http://sback.it/mud2014/))
 - 11^th^ Working Conference on Mining Software Repositories ([MSR'14](http://2014.msrconf.org/))
 - 22^nd^ IEEE International Conference on Program Comprehension ([ICPC'14](http://icpc2014.usask.ca/))
 - 20^th^ IEEE International Conference on Program Comprehension ([ICPC'12](http://icpc12.sosy-lab.org/))
@@ -138,9 +141,9 @@ Teaching
 ========
 
 - *Assistant*, CS 250 - Programming II (Fall 2013, Spring 2014)
-    - Instructor: [Nicholas A. Kraft](http://nkraft.cs.ua.edu/)
+    - Primary Instructor: [Nicholas A. Kraft](http://nkraft.cs.ua.edu/)
 - *Assistant*, CS 315 - Software Engineering (Spring 2013)
-    - Instructor: [Nicholas A. Kraft](http://nkraft.cs.ua.edu/)
+    - Primary Instructor: [Nicholas A. Kraft](http://nkraft.cs.ua.edu/)
     - [100P](http://100p.cs.ua.edu/) course
 
 
@@ -153,23 +156,44 @@ Academic Service
 - [Research Experience for Undergraduates](http://reu.cs.ua.edu/)
   Mentor, 2011 -- 2014
     - 2014:
-        Daniel S. May (Swarthmore College),
-        Kelly L. Kashuda (University of Alabama)
+        Daniel S. May
+        (B.S. student, Computer science, Swarthmore College),
+        Kelly L. Kashuda
+        (B.S. student, Computer science, University of Alabama)
     - 2013:
-        [Nathan Klein](http://cs.oberlin.edu/~nklein/) (Oberlin College)
+        [Nathan Klein](http://cs.oberlin.edu/~nklein/)
+        (B.S. student, Computer science, Oberlin College)
 - [Tide Together](http://graduate.ua.edu/tidetogether/)
   Peer Mentor, 2012 -- 2014
+    - 2014:
+        [Reginald L. Tucker](http://manderson.cba.ua.edu/phd_students/management)
+        (PhD student, Management, University of Alabama)
     - 2013:
-        [Erik R. Kline](http://english.ua.edu/user/604) (PhD student, English, University of Alabama)
+        [Erik R. Kline](http://english.ua.edu/user/604)
+        (PhD student, English, University of Alabama)
     - 2012:
-        [Matthew Jones](http://english.ua.edu/user/471) (MFA student, Creative Writing, University of Alabama)
+        [Matthew Jones](http://english.ua.edu/user/471)
+        (MFA student, Creative Writing, University of Alabama)
+- [Tide Together](http://graduate.ua.edu/tidetogether/)
+  Peer Mentor Student Leader, 2014 -- 2015
+    - 2014:
+        Natasha Aduloju-Ajijola,
+        Pandora White,
+        Jean Swindle,
+        Gabby Smith,
+        Ana Rondon
 
 
 ### Volunteering
 
+- [Graduate Orientation and Welcome](http://graduate.ua.edu/events/orientation.html)
+    Volunteer, Fall 2014
+- [Graduyate Student Assiocation](http://graduate.ua.edu/students/gsa.html)
+    Department Representative, 2014
 - [Alabama Robotics Competition](http://outreach.cs.ua.edu/robotics-contest/)
     Assistant & Judge, 2012 -- 2014
 - [Tuscaloosa Public Library](http://www.tuscaloosa-library.org/)
     Teen Zone: GeoTech Lab, Summer 2014
+- 4^th^ Workshop on Mining Unstructured Data ([MUD'14](http://sback.it/mud2014/))
 - 50^th^ ACM Southeast Conference ([ACMSE'12](http://cs.ua.edu/acmse2012/))
 
