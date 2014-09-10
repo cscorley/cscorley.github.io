@@ -157,12 +157,12 @@ Academic Service
   Mentor, 2011 -- 2014
     - 2014:
         Daniel S. May
-        (B.S. student, Computer science, Swarthmore College),
+        (B.S. student, Computer Science, Swarthmore College),
         Kelly L. Kashuda
-        (B.S. student, Computer science, University of Alabama)
+        (B.S. student, Computer Science, University of Alabama)
     - 2013:
         [Nathan Klein](http://cs.oberlin.edu/~nklein/)
-        (B.S. student, Computer science, Oberlin College)
+        (B.S. student, Computer Science, Oberlin College)
 - [Tide Together](http://graduate.ua.edu/tidetogether/)
   Peer Mentor, 2012 -- 2014
     - 2014:
