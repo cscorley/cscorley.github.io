@@ -178,17 +178,17 @@ Academic Service
   Peer Mentor Student Leader, 2014 -- 2015
     - 2014:
         Natasha Aduloju-Ajijola,
-        Pandora White,
-        Jean Swindle,
+        Ana Rondon,
         Gabby Smith,
-        Ana Rondon
+        Jean Swindle,
+        Pandora White
 
 
 ### Volunteering
 
 - [Graduate Orientation and Welcome](http://graduate.ua.edu/events/orientation.html)
     Volunteer, Fall 2014
-- [Graduyate Student Assiocation](http://graduate.ua.edu/students/gsa.html)
+- [Graduate Student Association](http://graduate.ua.edu/students/gsa.html)
     Department Representative, 2014
 - [Alabama Robotics Competition](http://outreach.cs.ua.edu/robotics-contest/)
     Assistant & Judge, 2012 -- 2014
