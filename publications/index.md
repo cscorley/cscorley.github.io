@@ -15,6 +15,8 @@ this page.
     ([MUD'14](http://sback.it/mud2014/))
     <br />
         [[PDF]](/publications/pdfs/Corley-etal_14.pdf)
+        [[Slides]](https://speakerdeck.com/cscorley/modeling-changeset-topics)
+        [[Talk (practice)]](https://www.youtube.com/watch?v=S12B_CTeUtA)
         [[Code]](http://www.github.com/cscorley/mud2014-modeling-changeset-topics)
 - New Features for Duplicate Bug Detection
     <br /> N. Klein, **C.S. Corley**, and N.A. Kraft

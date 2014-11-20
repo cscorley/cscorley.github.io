@@ -186,6 +186,10 @@ Academic Service
 
 ### Volunteering
 
+- 30^th^ IEEE International Conference on Software Maintenance and Evolution ([ICSME'14](http://www.icsme.org/2014))
+    Student Volunteer, 2014
+- 4^th^ Workshop on Mining Unstructured Data ([MUD'14](http://sback.it/mud2014/))
+    Student Volunteer, 2014
 - [Graduate Orientation and Welcome](http://graduate.ua.edu/events/orientation.html)
     Volunteer, Fall 2014
 - [Graduate Student Association](http://graduate.ua.edu/students/gsa.html)
@@ -194,6 +198,8 @@ Academic Service
     Assistant & Judge, 2012 -- 2014
 - [Tuscaloosa Public Library](http://www.tuscaloosa-library.org/)
     Teen Zone: GeoTech Lab, Summer 2014
-- 4^th^ Workshop on Mining Unstructured Data ([MUD'14](http://sback.it/mud2014/))
+- [Women in STEM Experience](http://services.graduate.ua.edu/events/wise.html)
+    Student Volunteer, Fall 2013
 - 50^th^ ACM Southeast Conference ([ACMSE'12](http://cs.ua.edu/acmse2012/))
+    Student Volunteer, 2012
 
