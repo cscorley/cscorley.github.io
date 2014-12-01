@@ -15,13 +15,24 @@ header-includes: |
     \usepackage{enumitem}
     \renewcommand{\labelitemi}{}
     \setlist{nolistsep, itemindent=-1em}
+    \usepackage{fancyhdr}
+    \pagestyle{fancy}
+    \pagenumbering{arabic}
+    \lhead{\itshape Christopher S. Corley}
+    \chead{}
+    \rhead{\thepage}
+    \lfoot{}
+    \cfoot{\today}
+    \rfoot{}
 ---
 
-------------------------------- -----------------------------------------------------
-Department of Computer Science    <span class="mail"><cscorley@crimson.ua.edu></span>
-The University of Alabama                        <http://cscorley.students.cs.ua.edu>
+\thispagestyle{empty} <!-- put this here so first page isn't numbered -->
+
+------------------------------- ----------------------------------------------------
+Department of Computer Science   <span class="mail"><cscorley@crimson.ua.edu></span>
+The University of Alabama                       <http://cscorley.students.cs.ua.edu>
 Tuscaloosa, AL 35487-0290, USA
-------------------------------- -----------------------------------------------------
+------------------------------- ----------------------------------------------------
 
 
 Education
