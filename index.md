@@ -13,7 +13,7 @@ at the [University of Alabama](http://www.ua.edu/).
 My research interests are in software engineering and maintenance,
 specifically applications of topic modeling to automation of software
 maintenance tasks.
-I am part of the [Software Engineering Research Group](http://software.eng.ua.edu/)
+I am part of the [Software Engineering Research Group](http://se.cs.ua.edu/)
 and a former [GAANN](http://gaann.cs.ua.edu/) fellow.
 My current advisor is [Dr. Jeffrey C. Carver](http://carver.cs.ua.edu/).
 I was previously advised by [Dr. Nicholas A. Kraft](http://nkraft.cs.ua.edu/).

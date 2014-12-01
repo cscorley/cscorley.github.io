@@ -1,5 +1,21 @@
-% Christopher S. Corley
-% Curriculum Vitae
+---
+documentclass: article
+title: Christopher S. Corley
+subtitle: Curriculum Vitae
+linkcolor: black
+citecolor: black
+urlcolor: black
+fontsize: 12pt
+fontfamily: libertine
+geometry: margin=1in
+header-includes: |
+    \makeatletter
+    \renewcommand{\@maketitle}{ \begin{center} {\Large \@title } \end{center}}
+    \makeatother
+    \usepackage{enumitem}
+    \renewcommand{\labelitemi}{}
+    \setlist{nolistsep, itemindent=-1em}
+---
 
 ------------------------------- -----------------------------------------------------
 Department of Computer Science    <span class="mail"><cscorley@crimson.ua.edu></span>
