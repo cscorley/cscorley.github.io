@@ -24,9 +24,10 @@ header-includes: |
     \lfoot{}
     \cfoot{\today}
     \rfoot{}
+include-before: |
+    \thispagestyle{empty}
 ---
 
-\thispagestyle{empty} <!-- put this here so first page isn't numbered -->
 
 ------------------------------- ----------------------------------------------------
 Department of Computer Science   <span class="mail"><cscorley@crimson.ua.edu></span>
