@@ -36,6 +36,14 @@ Tuscaloosa, AL 35487-0290, USA
 ------------------------------- ----------------------------------------------------
 
 
+Research Interests
+==================
+
+Software maintenance and evolution, machine learning in software engineering,
+mining software repositories, program comprehension, automating software
+engineering
+
+
 Education
 =========
 
@@ -191,7 +199,7 @@ Academic Service
     - 2013:
         [Nathan Klein](http://cs.oberlin.edu/~nklein/)
         (B.S. student, Computer Science, Oberlin College)
-- [Tide Together](http://graduate.ua.edu/tidetogether/)
+- [Tide Together](http://graduate.ua.edu/tide-together/)
   Peer Mentor, 2012 -- 2014
     - 2014:
         [Reginald L. Tucker](http://manderson.cba.ua.edu/phd_students/management)
@@ -202,7 +210,7 @@ Academic Service
     - 2012:
         [Matthew Jones](http://english.ua.edu/user/471)
         (MFA student, Creative Writing, University of Alabama)
-- [Tide Together](http://graduate.ua.edu/tidetogether/)
+- [Tide Together](http://graduate.ua.edu/tide-together/)
   Peer Mentor Student Leader, 2014 -- 2015
     - 2014:
         Natasha Aduloju-Ajijola,

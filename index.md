@@ -8,7 +8,7 @@ title: Christopher S. Corley
     title="Chris"
     alt="Picture of Christopher"/>
 
-I am a Ph.D. Graduate Student in the [Department of Computer Science](http://cs.ua.edu/)
+I am a Ph.D. candidate in the [Department of Computer Science](http://cs.ua.edu/)
 at the [University of Alabama](http://www.ua.edu/).
 My research interests are in software engineering and maintenance,
 specifically applications of topic modeling to automation of software
@@ -30,4 +30,5 @@ Tuscaloosa, Alabama 35487-0290<br />
 
 Email: <span class="mail">[cscorley@crimson.ua.edu](mailto:cscorley@crimson.ua.edu)</span><br />
 Twitter: [@excsc](http://twitter.com/excsc)<br />
+Github: [cscorley](http://github.com/cscorley)
 
