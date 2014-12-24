@@ -15,6 +15,7 @@ this page.
     ([MUD'14](http://sback.it/mud2014/))
     <br />
         [[PDF]](/publications/pdfs/Corley-etal_14.pdf)
+        [[DOI]](http://dx.doi.org/10.1109/MUD.2014.9)
         [[Slides]](https://speakerdeck.com/cscorley/modeling-changeset-topics)
         [[Talk (practice)]](https://www.youtube.com/watch?v=S12B_CTeUtA)
         [[Code]](http://www.github.com/cscorley/mud2014-modeling-changeset-topics)
