@@ -22,13 +22,10 @@ Here is a list of my [publications](/publications)
 and my [vita](/pdfs/cscorley_cv.pdf).
 
 
-Contact
--------
-Department of Computer Science<br />
-University of Alabama<br />
-Tuscaloosa, Alabama 35487-0290<br />
+## Contact
 
-Email: <span class="mail">[cscorley@crimson.ua.edu](mailto:cscorley@crimson.ua.edu)</span><br />
-Twitter: [@excsc](http://twitter.com/excsc)<br />
-Github: [cscorley](http://github.com/cscorley)
+- Email: <span class="mail">[cscorley@crimson.ua.edu](mailto:cscorley@crimson.ua.edu)</span>
+- Twitter: [@excsc](http://twitter.com/excsc)
+- Github: [cscorley](http://github.com/cscorley)
+- IRC: cscorley@freenode
 
