@@ -19,7 +19,7 @@ My current advisor is [Dr. Jeffrey C. Carver](http://carver.cs.ua.edu/).
 I was previously advised by [Dr. Nicholas A. Kraft](http://nkraft.cs.ua.edu/).
 
 Here is a list of my [publications](/publications)
-and my [vita](/cscorley_cv.pdf).
+and my [vita](/pdfs/cscorley_cv.pdf).
 
 
 Contact

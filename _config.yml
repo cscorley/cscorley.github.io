@@ -7,6 +7,8 @@ permalink: pretty
 github_url: "https://github.com/cscorley"
 twitter_url: "https://twitter.com/excsc"
 email: "mailto:cscorley@gmail.com"
+exclude:
+    - Makefile
 author_bio: |
     Christopher Corley <br />
     PhD student at the
