@@ -1,15 +1,15 @@
-name: Christopher S. Corley
+name: christop corley
 markdown: redcarpet
-pygments: true
+highlighter: rouge
 timezone: America/Chicago
 encoding: UTF-8
 permalink: pretty
 github_url: "https://github.com/cscorley"
 twitter_url: "https://twitter.com/excsc"
-email: "mailto:cscorley@gmail.com"
+email: "mailto:cscorley@crimson.ua.edu"
 exclude:
     - Makefile
 author_bio: |
-    Christopher Corley <br />
+    Christopher S. Corley <br />
     PhD student at the
     <a href="http://cscorley.students.cs.ua.edu">University of Alabama</a>.

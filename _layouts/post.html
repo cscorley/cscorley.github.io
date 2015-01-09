@@ -1,9 +1,16 @@
 ---
 layout: default
 ---
-<h2>{{ page.title }}</h2>
-<p class="meta">{{ page.date | date_to_string }}</p>
 
-<div class="post">
-{{ content }}
+<div class=post>
+    {% if page.feature %}
+    <div class=feature-image>
+        <img src="{{ page.feature }}"/>
+    </div>
+    {% endif %}
+    {% include post-meta.html %}
+    <h1 class=title-large>{{ page.title }}</h1>
+    <div class=content>
+        {{ content }}
+    </div>
 </div>

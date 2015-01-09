@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 documentclass: article
 title: Christopher S. Corley
 subtitle: Curriculum Vitae
