@@ -7,6 +7,7 @@ permalink: pretty
 github_url: "https://github.com/cscorley"
 twitter_url: "https://twitter.com/excsc"
 email: "mailto:cscorley@crimson.ua.edu"
+baseurl: http://christop.club/
 exclude:
     - Makefile
 author_bio: |
