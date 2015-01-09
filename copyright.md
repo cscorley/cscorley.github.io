@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Copyright Information
+title: copyright information
 ---
 
 Copyright notices governing the use of publications from this site.

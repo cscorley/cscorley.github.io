@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Disclaimer
+title: disclaimer
 ---
 
 The views, opinions, and conclusions expressed in this page are those of the

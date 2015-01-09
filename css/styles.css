@@ -96,6 +96,13 @@ p code, ul code {
     text-decoration: none;
 }
 
+.disclaimer a {
+    font-size: 1em;
+    text-decoration: none;
+    color: #BBB;;
+}
+
+
 .author-bio {
     color: #666;
     font-style: italic;

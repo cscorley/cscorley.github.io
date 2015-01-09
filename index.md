@@ -1,6 +1,5 @@
 ---
-layout: index
-title: christop's phd quest
+layout: page
 ---
 
 <img style="border: 6px solid #ddd; height: 175px; float: right; padding: 1px; background: #aaa; margin-left: 20px;"

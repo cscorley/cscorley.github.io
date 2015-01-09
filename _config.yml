@@ -10,6 +10,6 @@ email: "mailto:cscorley@crimson.ua.edu"
 exclude:
     - Makefile
 author_bio: |
-    Christopher S. Corley <br />
-    PhD student at the
+    Christopher S. Corley<br />
+    is a PhD candidate at the<br />
     <a href="http://cscorley.students.cs.ua.edu">University of Alabama</a>.
