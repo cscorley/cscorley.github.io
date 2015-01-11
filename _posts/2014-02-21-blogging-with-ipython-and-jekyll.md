@@ -122,5 +122,5 @@ Some code copied from [Wikipedia](https://en.wikipedia.org/wiki/Matplotlib):
 {% endhighlight %}
 
 
-![png]({{ site.baseurl}}notebooks/blogging-with-ipython-and-jekyll_files/blogging-with-ipython-and-jekyll_4_0.png)
+![png](/notebooks/blogging-with-ipython-and-jekyll_files/blogging-with-ipython-and-jekyll_4_0.png)
 

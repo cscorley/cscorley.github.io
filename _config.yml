@@ -7,10 +7,9 @@ permalink: pretty
 github_url: "https://github.com/cscorley"
 twitter_url: "https://twitter.com/excsc"
 email: "mailto:cscorley@crimson.ua.edu"
-baseurl: http://christop.club/
 exclude:
     - Makefile
 author_bio: |
     Christopher S. Corley<br />
     is a PhD candidate at the<br />
-    <a href="http://cscorley.students.cs.ua.edu">University of Alabama</a>.
+    <a href="http://cs.ua.edu">University of Alabama</a>.
