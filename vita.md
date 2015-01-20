@@ -30,11 +30,11 @@ include-before: |
 ---
 
 
-------------------------------- ----------------------------------------------------
-Department of Computer Science   <span class="mail"><cscorley@crimson.ua.edu></span>
-The University of Alabama                       <http://cscorley.students.cs.ua.edu>
+------------------------------- ----------------------------
+Department of Computer Science     <cscorley@crimson.ua.edu>
+The University of Alabama             <http://christop.club>
 Tuscaloosa, AL 35487-0290, USA
-------------------------------- ----------------------------------------------------
+------------------------------- ----------------------------
 
 
 Research Interests
