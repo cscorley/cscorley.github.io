@@ -50,9 +50,8 @@ Education
 
 - University of Alabama, Tuscaloosa, Alabama, USA
     - PhD Computer Science, *expected* May 2016
-    - Advisor: [Jeffrey C. Carver](http://carver.cs.ua.edu)
-    - Previous advisor: [Nicholas A. Kraft](http://nkraft.cs.ua.edu),
-    now at [ABB Research](http://www.abb.com)
+    - Chair: [Jeffrey C. Carver](http://carver.cs.ua.edu)
+    - Advisor: [Nicholas A. Kraft](http://nkraft.cs.ua.edu)
 
 - University of Alabama, Tuscaloosa, Alabama, USA
     - M.S. Computer Science, August 2014
@@ -65,6 +64,9 @@ Education
 
 Professional Experience
 =======================
+
+- ABB U.S. Corporate Research Center in Raleigh, NC, 2015
+    - Visiting Researcher
 
 - University of North Alabama, Mathematics & Computer Science, 2010 -- 2011
     - Undergraduate Lab Assistant
