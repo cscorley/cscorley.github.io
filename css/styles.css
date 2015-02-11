@@ -59,7 +59,7 @@ p code, ul code {
     background: #eee;
     border: 1px solid #ccc;
     font-size: 0.8em;
-    padding: 5px 5px 5px 5px;
+    padding: 1px 1px 1px 1px;
     white-space: nowrap;
     vertical-align: middle;
 }
@@ -260,7 +260,7 @@ p.feature-image img {
     .container {
         margin: 3em 0;
     }
-    
+
     .author-info {
         float: none;
         margin: 0 auto 3em auto;
