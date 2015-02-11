@@ -6,6 +6,7 @@ body {
     font-family: Vollkorn, Georgia, Cambria, "Times New Roman", Times, serif;
 }
 
+
 h1, h2, h3, h4 {
     font-family: Arial, Verdana, sans-serif;
     line-height: 1em;
@@ -63,6 +64,7 @@ p code, ul code {
     white-space: nowrap;
     vertical-align: middle;
 }
+
 
 .container {
     margin: 9em 0 3em 0;
@@ -208,11 +210,12 @@ p.feature-image img {
     margin: 0 0 0 3em;
 }
 
-.lineno {
-    font-size: 1.1em;
+.gutter .lineno {
     margin: 0 1em 0 0;
     color: #f09;
     background: #fff;
+    background: #eee;
+    font-size: 0.8em;
 }
 
 .in_prompt{

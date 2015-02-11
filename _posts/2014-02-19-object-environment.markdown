@@ -987,7 +987,7 @@ This should look familiar, because it is the same thing as when we did
 
 Here's `MixedFraction`'s `to_float` for reference:
 
-{% highlight python linenos %}
+{% highlight python %}
 
 def to_float(self):
     val = float(self.whole_num)
