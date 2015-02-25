@@ -1,6 +1,7 @@
 name: christop
 markdown: redcarpet
-highlighter: rouge
+redcarpet:
+    extensions: ["strikethrough"]
 timezone: America/Chicago
 encoding: UTF-8
 permalink: pretty

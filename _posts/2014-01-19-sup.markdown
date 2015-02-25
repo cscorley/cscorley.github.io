@@ -25,7 +25,7 @@ How I Use Email
 - I use both Gmail and my school email separately.
 - My school email is a Google Apps account, but handles logins itself
   through OAuth2.
-- My main machine that I email from is a Macbook.
+- My main machine that I email from is a Macbook. (*Update: this has been working fine on multiple machines, as well*)
 - I often use email on my phone, which means changes need to appear on
   all clients.
 - I prefer emails to be threaded into a single view conversation, if possible.
@@ -329,11 +329,26 @@ has finished syncing by now. :)
 
 ### Installing
 
-This is going to be a bit complicated. OS X ships with Ruby 2.0, and sup
+
+*Update: sup >= 0.21.0 now only supports ruby 2.0 and above.*
+
+You should be able to install sup with a simple:
+    
+    gem install sup
+
+Note that during my migration I had to install xapian-ruby seprately first:
+
+    gem install xapian-ruby
+    gem install sup
+
+Everything should be smooth sailing now.
+
+~~This is going to be a bit complicated. OS X ships with Ruby 2.0, and sup
 runs best on Ruby 1.9.3 at the moment. You can install this however you
 like, just as long as you're running 1.9.3. This post is based around
-sup 0.15.2.
+sup 0.15.2.~~
 
+<s>
 #### Getting 1.9.3
 
 I recommend using the [ruby-install] tool to install different rubies
@@ -363,6 +378,7 @@ Install the `sup` gem:
     gem install sup
 
 Done.
+</s>
 
 ### Configuration
 
@@ -488,6 +504,12 @@ discussing using sup.
 
 ### Running
 
+
+*Update: sup now only supports ruby 2.0 and above.*
+
+This is no longer needed.
+
+<s>
 Once you have sources configured, preform your first `sup-sync`. It might
 take a few minutes. This is going to tell sup to pull in all that new
 mail.
@@ -499,6 +521,7 @@ Run `sup` by:
 
 You should be greeted with your inbox. I recommend just putting the following
 alias in your `.bashrc` or `.zshrc`: `alias sup='chruby ruby-1.9.3 && sup'`
+</s>
 
 Using Sup
 ---------
