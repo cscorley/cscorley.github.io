@@ -800,7 +800,7 @@ now `self` is the pointer to `third`:
                 ------------------------------  |
                 self        | Fraction | *------/
 
-_\*busts an air guitar solo\*_
+**\*busts an air guitar solo\***
 
 
 ### Most things are object-like

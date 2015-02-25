@@ -1,7 +1,14 @@
 name: christop
 markdown: redcarpet
 redcarpet:
-    extensions: ["strikethrough"]
+    extensions:
+        - strikethrough
+        - tables
+        - fenced_code_blocks
+        - autolink
+        - superscript
+        - underline
+        - highlighted
 timezone: America/Chicago
 encoding: UTF-8
 permalink: pretty
