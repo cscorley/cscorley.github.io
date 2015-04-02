@@ -50,17 +50,18 @@ Education
 
 - University of Alabama, Tuscaloosa, Alabama, USA
     - PhD Computer Science, *expected* May 2016
-    - Chair: [Jeffrey C. Carver](http://carver.cs.ua.edu)
-    - Advisor: [Nicholas A. Kraft](http://nkraft.cs.ua.edu)
+    - Chair: [Jeffrey C. Carver][]
+    - Advisor: [Nicholas A. Kraft][]
 
 - University of Alabama, Tuscaloosa, Alabama, USA
     - M.S. Computer Science, August 2014
-    - Advisor: [Nicholas A. Kraft](http://nkraft.cs.ua.edu)
+    - Advisor: [Nicholas A. Kraft][]
 
 - University of North Alabama, Florence, Alabama, USA
     - B.S. Computer Science, May 2011
 
-
+[Jeffrey C. Carver]: http://carver.cs.ua.edu/
+[Nicholas A. Kraft]: http://nicholasakraft.com/
 
 Professional Experience
 =======================
@@ -180,9 +181,9 @@ Teaching
 ========
 
 - *Assistant*, CS 250 - Programming II (Fall 2013, Spring 2014)
-    - Primary Instructor: [Nicholas A. Kraft](http://nkraft.cs.ua.edu/)
+    - Primary Instructor: [Nicholas A. Kraft][]
 - *Assistant*, CS 315 - Software Engineering (Spring 2013)
-    - Primary Instructor: [Nicholas A. Kraft](http://nkraft.cs.ua.edu/)
+    - Primary Instructor: [Nicholas A. Kraft][]
     - [100P](http://100p.cs.ua.edu/) course
 
 

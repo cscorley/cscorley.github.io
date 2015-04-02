@@ -22,6 +22,6 @@ Raleigh, NC.
 [University of Alabama]: http://www.ua.edu/
 [Software Engineering Research Group]: http://se.cs.ua.edu/
 [GAANN]: http://gaann.cs.ua.edu/
-[Dr. Nicholas A. Kraft]: http://nkraft.cs.ua.edu/
+[Dr. Nicholas A. Kraft]: http://nicholasakraft.com/
 [Dr. Jeffrey C. Carver]: http://carver.cs.ua.edu/
 [ABB Corporate Research]: http://www.abb.com/softwareresearch
