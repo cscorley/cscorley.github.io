@@ -174,11 +174,9 @@ It just makes some of the things I'll show you next nicer.
 automatically update the `alpha` value for us.
 This determines how 'smooth' the model is, which makes no damned sense if you
 aren't working in the area (it doesn't make much sense to me).
-Here's what alpha does: as it gets smaller, each topic is going to be *more
-specific*, i.e., likely to only made up of words not in other topics. As it gets
-bigger, words can begin to appear in multiple topics, which is what we want.
-The word "ball" could appear in a topic on baseball, basketball, football-- okay
-you get it.
+Here's what alpha does: as it gets smaller, each document is going to be *more
+specific*, i.e., likely to only made up of a few topics. As it gets
+bigger, a document can begin to appear in multiple topics, which is what we want.
 It's not good to have a large alpha either, because then all our topics will
 start intermingling and making out and that's gross.
 I have no idea how the `'auto'` setting really works, but it seems pretty legit
