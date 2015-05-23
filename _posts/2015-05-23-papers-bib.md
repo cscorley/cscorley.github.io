@@ -40,6 +40,7 @@ I use three primary programs to manage my `papers.bib` file:
 3. [Syncthing](https://syncthing.net/)
     - Syncthing was chosen because it was a solid open-source replacement for
       Dropbox.
+    - Used for keeping previously downloaded PDF files in sync.
 
 I can satisfy all my criteria with a combination of these three tools.
 
@@ -74,7 +75,7 @@ will take care of all of those.
 ### git
 
 Likewise, I set git up to ignore the PDF files by placing this into the
-`.gitignore`: `*.pdf`
+`.gitignore`: `*.pdf`. Syncthing will be managing those PDFs.
 
 # Workflow
 
