@@ -37,12 +37,14 @@ Tuscaloosa, AL 35487-0290, USA
 ------------------------------- ----------------------------
 
 
+
 Research Interests
 ==================
 
 Software maintenance and evolution, machine learning in software engineering,
 mining software repositories, program comprehension, automating software
 engineering
+
 
 
 Education
@@ -54,14 +56,16 @@ Education
     - Advisor: [Nicholas A. Kraft][]
 
 - University of Alabama, Tuscaloosa, Alabama, USA
-    - M.S. Computer Science, August 2014
+    - MS Computer Science, August 2014
     - Advisor: [Nicholas A. Kraft][]
 
 - University of North Alabama, Florence, Alabama, USA
-    - B.S. Computer Science, May 2011
+    - BS Computer Science, May 2011
 
 [Jeffrey C. Carver]: http://carver.cs.ua.edu/
 [Nicholas A. Kraft]: http://nicholasakraft.com/
+
+
 
 Professional Experience
 =======================
@@ -80,18 +84,20 @@ Professional Experience
 Fellowships and Awards
 ======================
 
-- Graduate Assistance in Areas of National Need
-  ([GAANN](http://gaann.cs.ua.edu/)) Doctoral Fellowship,
+- Graduate Assistance in Areas of National Need ([GAANN][]) Doctoral Fellowship,
   2011 -- 2016
 
 - Research Assistantship -- Improved Code Clone Categorization
-  (NSF [0915559](http://nsf.gov/awardsearch/showAward.do?AwardNumber=0915559)
- & [0915403](http://nsf.gov/awardsearch/showAward.do?AwardNumber=0915403)),
- 2011
+  (NSF [0915559][] & [0915403][]),
+  2011
 
-- Research Experience for Undergraduates ([REU-SLE](http://reu.cs.ua.edu/)),
+- Research Experience for Undergraduates ([REU-SLE][]),
   2009 & 2010
 
+[REU-SLE]: http://reu.cs.ua.edu/
+[0915403]: http://nsf.gov/awardsearch/showAward.do?AwardNumber=0915403
+[0915559]: http://nsf.gov/awardsearch/showAward.do?AwardNumber=0915559
+[GAANN]: http://gaann.cs.ua.edu/
 
 
 Publications
@@ -102,26 +108,26 @@ Publications
 - **C.S. Corley**, K.L. Kashuda, D.S. May, and N.A. Kraft,
     "Modeling Changeset Topics",
     *4^th^ Workshop on Mining Unstructured Data*
-    ([MUD'14](http://sback.it/mud2014/)),
+    ([MUD'14][]),
     Victoria, British Columbia, Canada, 5 pages, September 2014.
 - N. Klein, **C.S. Corley**, and N.A. Kraft,
     "New Features for Duplicate Bug Detection",
     *11^th^ Working Conference on Mining Software Repositories*
-    ([MSR'14](http://2014.msrconf.org/)),
+    ([MSR'14][]),
     Hyderabad, India, 4 pages, May 2014
     (acceptance rate: 37% for short papers).
 - A. Bosu, **C.S. Corley**, D. Heaton, D. Chatterji, J.C. Carver, and N.A. Kraft,
     "Building Reputation in StackOverflow: An Empirical Investigation,"
     *10^th^ Working Conference on Mining Software Repositories ---
     Mining Challenge*
-    ([MSR'13](http://2013.msrconf.org/)),
+    ([MSR'13][]),
     San Francisco, California, USA, 4 pages, May 2013
     (acceptance rate: 41%).
 - **C.S. Corley**, E.A. Kammer, and N.A. Kraft,
     "Modeling the Ownership of Source Code Topics,"
     *Proceedings of the 20^th^ IEEE International Conference on Program
     Comprehension*
-    ([ICPC'12](http://icpc12.sosy-lab.org/)),
+    ([ICPC'12][]),
     Passau, Bavaria, Germany, 10 pages, June 2012
     (acceptance rate 41%).
 - **C.S. Corley**, N.A. Kraft, L.H. Etzkorn, and S.K. Lukins,
@@ -129,7 +135,7 @@ Publications
     Analysis,"
     *Proceedings of the 6^th^ International Workshop on Traceability in
     Emerging Forms of Software Engineering*,
-    ([TEFSE'11](http://www.cs.wm.edu/semeru/tefse2011)),
+    ([TEFSE'11][]),
     Honolulu, Hawaii, USA, 7 pages, May 2011
     (acceptance rate 44%).
 
@@ -141,39 +147,50 @@ Professional Activities
 ### Program Committee Member
 
 - 30^th^ International Conference on Software Maintenance and Evolution --
-    Tool Demo Track ([ICSME'14](http://www.icsme.org/))
-- 50^th^ ACM Southeast Conference ([ACMSE'12](http://cs.ua.edu/acmse2012/))
+    Tool Demo Track ([ICSME'14][])
+- 50^th^ ACM Southeast Conference ([ACMSE'12][])
 
 
 ### External Reviewer
 
 - 30^th^ International Conference on Software Maintenance and Evolution --
-    Early Research Achievements Track ([ICSME'14](http://www.icsme.org/))
+    Early Research Achievements Track ([ICSME'14][])
 - 7^th^ International Workshop on Traceability in Emerging Forms of
-  Software Engineering ([TEFSE'13](http://www.cse.msstate.edu/~tefse13/))
+  Software Engineering ([TEFSE'13][])
 
 
 ### Conference and Workshop Attendance
 
-- 30^th^ IEEE International Conference on Software Maintenance and Evolution ([ICSME'14](http://www.icsme.org/2014))
-- 4^th^ Workshop on Mining Unstructured Data ([MUD'14](http://sback.it/mud2014/))
-- 11^th^ Working Conference on Mining Software Repositories ([MSR'14](http://2014.msrconf.org/))
-- 22^nd^ IEEE International Conference on Program Comprehension ([ICPC'14](http://icpc2014.usask.ca/))
-- 20^th^ IEEE International Conference on Program Comprehension ([ICPC'12](http://icpc12.sosy-lab.org/))
-- 50^th^ ACM Southeast Conference ([ACMSE'12](http://cs.ua.edu/acmse2012/))
-- 27^th^ IEEE International Conference on Software Maintenance ([ICSM'11](http://www.cs.wm.edu/icsm2011))
-- 8^th^ Working Conference on Mining Software Repositories ([MSR'11](http://2011.msrconf.org/))
-- 6^th^ International Workshop on Traceability in Emerging Forms of Software Engineering ([TEFSE'11](http://www.cs.wm.edu/semeru/tefse2011))
-- 48^th^ ACM Southeast Conference ([ACMSE'10](http://www.cs.oldemiss.edu/acmse2010/))
+- 30^th^ IEEE International Conference on Software Maintenance and Evolution ([ICSME'14][])
+- 4^th^ Workshop on Mining Unstructured Data ([MUD'14][])
+- 11^th^ Working Conference on Mining Software Repositories ([MSR'14][])
+- 22^nd^ IEEE International Conference on Program Comprehension ([ICPC'14][])
+- 20^th^ IEEE International Conference on Program Comprehension ([ICPC'12][])
+- 50^th^ ACM Southeast Conference ([ACMSE'12][])
+- 27^th^ IEEE International Conference on Software Maintenance ([ICSM'11][])
+- 8^th^ Working Conference on Mining Software Repositories ([MSR'11][])
+- 6^th^ International Workshop on Traceability in Emerging Forms of Software Engineering ([TEFSE'11][])
+- 48^th^ ACM Southeast Conference ([ACMSE'10][])
 
+[ACMSE'10]: http://www.cs.oldemiss.edu/acmse2010/
+[ACMSE'12]: http://cs.ua.edu/acmse2012/
+[ICPC'12]: http://icpc12.sosy-lab.org/
+[ICPC'14]: http://icpc2014.usask.ca/
+[ICSM'11]: http://www.cs.wm.edu/icsm2011
+[ICSME'14]: http://www.icsme.org/2014
+[MSR'11]: http://2011.msrconf.org/
+[MSR'14]: http://2014.msrconf.org/
+[MUD'14]: http://sback.it/mud2014/
+[TEFSE'11]: http://www.cs.wm.edu/semeru/tefse2011
+[TEFSE'13]: http://www.cse.msstate.edu/~tefse13/
 
 ### Professional Memberships
 
-- IEEE, 2011 -- present
-- IEEE Computer Society, 2011 -- present
-- Association for Computing Machinery, 2008 -- present
+- IEEE, 2011 -- 2015
+- IEEE Computer Society, 2011 -- 2015
+- Association for Computing Machinery, 2008 -- 2015
     - Local chapter (University of North Alabama) Student President, 2009 -- 2011
-- ACM Special Interest Group on Software Engineering (SIGSOFT), 2012 -- present
+- ACM Special Interest Group on Software Engineering (SIGSOFT), 2012 -- 2015
 
 
 
@@ -184,37 +201,42 @@ Teaching
     - Primary Instructor: [Nicholas A. Kraft][]
 - *Assistant*, CS 315 - Software Engineering (Spring 2013)
     - Primary Instructor: [Nicholas A. Kraft][]
-    - [100P](http://100p.cs.ua.edu/) course
+    - [100P][] course
 
+[100P]: http://100p.cs.ua.edu/
 
 
 Academic Service
 ================
 
+- [Graduate Student Association][]
+    Department Representative, 2014
+
+
 ### Mentoring
 
-- [Research Experience for Undergraduates](http://reu.cs.ua.edu/)
+- [Research Experience for Undergraduates][]
   Mentor, 2011 -- 2014
     - 2014:
         Daniel S. May
-        (B.S. student, Computer Science, Swarthmore College),
+        (BS student, Computer Science, Swarthmore College),
         Kelly L. Kashuda
-        (B.S. student, Computer Science, University of Alabama)
+        (BS student, Computer Science, University of Alabama)
     - 2013:
-        [Nathan Klein](http://cs.oberlin.edu/~nklein/)
-        (B.S. student, Computer Science, Oberlin College)
-- [Tide Together](http://graduate.ua.edu/tide-together/)
+        [Nathan Klein][]
+        (BS student, Computer Science, Oberlin College)
+- [Tide Together][]
   Peer Mentor, 2012 -- 2014
     - 2014:
-        [Reginald L. Tucker](http://manderson.cba.ua.edu/phd_students/management)
+        [Reginald L. Tucker][]
         (PhD student, Management, University of Alabama)
     - 2013:
-        [Erik R. Kline](http://english.ua.edu/user/604)
+        [Erik R. Kline][]
         (PhD student, English, University of Alabama)
     - 2012:
-        [Matthew Jones](http://english.ua.edu/user/471)
+        [Matthew Jones][]
         (MFA student, Creative Writing, University of Alabama)
-- [Tide Together](http://graduate.ua.edu/tide-together/)
+- [Tide Together][]
   Peer Mentor Student Leader, 2014 -- 2015
     - 2014:
         Natasha Aduloju-Ajijola,
@@ -223,23 +245,33 @@ Academic Service
         Jean Swindle,
         Pandora White
 
+[Graduate Student Association]: http://graduate.ua.edu/students/gsa.html
+[Research Experience for Undergraduates]: http://reu.cs.ua.edu/
+[Tide Together]: http://graduate.ua.edu/tide-together/
+
+[Nathan Klein]: http://cs.oberlin.edu/~nklein/
+[Reginald L. Tucker]: http://manderson.cba.ua.edu/phd_students/management
+[Erik R. Kline]: http://english.ua.edu/user/604
+[Matthew Jones]: http://english.ua.edu/user/471
 
 ### Volunteering
 
-- 30^th^ IEEE International Conference on Software Maintenance and Evolution ([ICSME'14](http://www.icsme.org/2014))
+- 30^th^ IEEE International Conference on Software Maintenance and Evolution ([ICSME'14][])
     Student Volunteer, 2014
-- 4^th^ Workshop on Mining Unstructured Data ([MUD'14](http://sback.it/mud2014/))
+- 4^th^ Workshop on Mining Unstructured Data ([MUD'14][])
     Student Volunteer, 2014
-- [Graduate Orientation and Welcome](http://graduate.ua.edu/events/orientation.html)
+- [Alabama Robotics Competition][]
+    Assistant & Judge, 2012 -- 2015
+- [Graduate Orientation and Welcome][]
     Volunteer, Fall 2014
-- [Graduate Student Association](http://graduate.ua.edu/students/gsa.html)
-    Department Representative, 2014
-- [Alabama Robotics Competition](http://outreach.cs.ua.edu/robotics-contest/)
-    Assistant & Judge, 2012 -- 2014
-- [Tuscaloosa Public Library](http://www.tuscaloosa-library.org/)
+- [Tuscaloosa Public Library][]
     Teen Zone: GeoTech Lab, Summer 2014
-- [Women in STEM Experience](http://services.graduate.ua.edu/events/wise.html)
+- [Women in STEM Experience][]
     Student Volunteer, Fall 2013
-- 50^th^ ACM Southeast Conference ([ACMSE'12](http://cs.ua.edu/acmse2012/))
+- 50^th^ ACM Southeast Conference ([ACMSE'12][])
     Student Volunteer, 2012
 
+[Women in STEM Experience]: http://services.graduate.ua.edu/events/wise.html
+[Tuscaloosa Public Library]: http://www.tuscaloosa-library.org/
+[Graduate Orientation and Welcome]: http://graduate.ua.edu/events/orientation.html
+[Alabama Robotics Competition]: http://outreach.cs.ua.edu/robotics-contest/
