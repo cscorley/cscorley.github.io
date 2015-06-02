@@ -6,6 +6,19 @@ title: publications
 Please observe the posted [copyright notices](/copyright) governing the use of material from
 this page.
 
+2015
+----
+
+- Modeling Changeset Topics for Feature Location
+    <br /> **C.S. Corley**, K.L. Kashuda, and N.A. Kraft,
+    <br /> *31st International Conference on Software Maintenance and Evolution*
+    ([ICSME'15][])
+    <br />
+        [[PDF]](/publications/pdfs/Corley-etal_15.pdf)
+        [[Code]](http://www.github.com/cscorley/changeset-feature-location)
+
+[ICSME'15]: http://www.icsme.uni-bremen.de/
+
 2014
 ----
 

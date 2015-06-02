@@ -98,6 +98,11 @@ Publications
 
 ### Refereed Conference and Workshop Proceedings
 
+- **C.S. Corley**, K.L. Kashuda, and N.A. Kraft,
+    "Modeling Changeset Topics for Feature Location",
+    *31st International Conference on Software Maintenance and Evolution*
+    ([ICSME'15][]),
+    Bremen, Germany, 10 pages, September 2015.
 - **C.S. Corley**, K.L. Kashuda, D.S. May, and N.A. Kraft,
     "Modeling Changeset Topics",
     *4^th^ Workshop on Mining Unstructured Data*
@@ -279,6 +284,7 @@ Academic Service
 [ICPC'14]: http://icpc2014.usask.ca/
 [ICSM'11]: http://www.cs.wm.edu/icsm2011
 [ICSME'14]: http://www.icsme.org/2014
+[ICSME'15]: http://www.icsme.uni-bremen.de/
 [MSR'11]: http://2011.msrconf.org/
 [MSR'13]: http://2013.msrconf.org/
 [MSR'14]: http://2014.msrconf.org/
