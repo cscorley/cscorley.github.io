@@ -10,7 +10,7 @@ this page.
 ----
 
 - Modeling Changeset Topics for Feature Location
-    <br /> **C.S. Corley**, K.L. Kashuda, and N.A. Kraft,
+    <br /> **C.S. Corley**, K.L. Kashuda, and N.A. Kraft
     <br /> *31st International Conference on Software Maintenance and Evolution*
     ([ICSME'15][])
     <br />
