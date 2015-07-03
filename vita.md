@@ -144,6 +144,8 @@ Professional Activities
 
 ### Program Committee Member
 
+- 31^st^ International Conference on Software Maintenance and Evolution --
+    Tool Demo Track ([ICSME'15][])
 - 30^th^ International Conference on Software Maintenance and Evolution --
     Tool Demo Track ([ICSME'14][])
 - 50^th^ ACM Southeast Conference ([ACMSE'12][])
@@ -151,6 +153,11 @@ Professional Activities
 
 ### External Reviewer
 
+- 31^st^ International Conference on Software Maintenance and Evolution --
+    Early Research Achievements Track ([ICSME'15][])
+- 8^th^ IEEE International Conference on Software Testing, Verification, and
+  Validation ([ICST'15][])
+- 4^th^ International Workshop on Combinatorial Testing ([IWCT'15][])
 - 30^th^ International Conference on Software Maintenance and Evolution --
     Early Research Achievements Track ([ICSME'14][])
 - 7^th^ International Workshop on Traceability in Emerging Forms of
@@ -159,6 +166,7 @@ Professional Activities
 
 ### Conference and Workshop Attendance
 
+- 31^st^ IEEE International Conference on Software Maintenance and Evolution ([ICSME'15][])
 - 30^th^ IEEE International Conference on Software Maintenance and Evolution ([ICSME'14][])
 - 4^th^ Workshop on Mining Unstructured Data ([MUD'14][])
 - 11^th^ Working Conference on Mining Software Repositories ([MSR'14][])
@@ -285,6 +293,8 @@ Academic Service
 [ICSM'11]: http://www.cs.wm.edu/icsm2011
 [ICSME'14]: http://www.icsme.org/2014
 [ICSME'15]: http://www.icsme.uni-bremen.de/
+[ICST'15]: http://icst2015.ist.tu-graz.ac.at/
+[IWCT'15]: http://iwct2015.unibg.it/
 [MSR'11]: http://2011.msrconf.org/
 [MSR'13]: http://2013.msrconf.org/
 [MSR'14]: http://2014.msrconf.org/
