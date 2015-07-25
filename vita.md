@@ -103,6 +103,11 @@ Publications
     *31st International Conference on Software Maintenance and Evolution*
     ([ICSME'15][]),
     Bremen, Germany, 10 pages, September 2015.
+- **C.S. Corley**, K. Damevski, and N.A. Kraft,
+    "Exploring the Use of Deep Learning for Feature Location",
+    *31st International Conference on Software Maintenance and Evolution*
+    ([ICSME'15][]) Early Research Achievements track,
+    Bremen, Germany, 5 pages, September 2015.
 - **C.S. Corley**, K.L. Kashuda, D.S. May, and N.A. Kraft,
     "Modeling Changeset Topics",
     *4^th^ Workshop on Mining Unstructured Data*

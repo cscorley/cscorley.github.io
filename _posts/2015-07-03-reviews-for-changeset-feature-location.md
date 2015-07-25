@@ -5,6 +5,7 @@ tags:
     - reviews
     - mining software repositories
     - changesets
+    - feature location
     - open science
     - lda
     - topic models
