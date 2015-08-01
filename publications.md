@@ -6,6 +6,9 @@ title: publications
 Please observe the posted [copyright notices](/copyright) governing the use of material from
 this page.
 
+All publications appear (along with many other good papers) in my BiBTeX file,
+[papers.bib](https://github.com/cscorley/papers)
+
 2015
 ----
 
@@ -23,6 +26,12 @@ this page.
     <br />
         [[PDF]](/publications/pdfs/Corley-etal_2015a.pdf)
         [[Code]](https://github.com/cscorley/doc2vec-feature-location)
+- Web Usage Patterns of Developers
+    <br /> **C.S. Corley**, F. Lois, and S.F. Quezada
+    <br /> *31st International Conference on Software Maintenance and Evolution*
+    ([ICSME'15][])
+    <br />
+        [[PDF]](/publications/pdfs/Corley-etal_2015b.pdf)
 
 [ICSME'15]: http://www.icsme.uni-bremen.de/
 

@@ -102,12 +102,20 @@ Publications
     "Modeling Changeset Topics for Feature Location",
     *31st International Conference on Software Maintenance and Evolution*
     ([ICSME'15][]),
-    Bremen, Germany, 10 pages, September 2015.
+    Bremen, Germany, 10 pages, September 2015
+    (acceptance rate: 22%).
 - **C.S. Corley**, K. Damevski, and N.A. Kraft,
     "Exploring the Use of Deep Learning for Feature Location",
     *31st International Conference on Software Maintenance and Evolution*
     ([ICSME'15][]) Early Research Achievements track,
-    Bremen, Germany, 5 pages, September 2015.
+    Bremen, Germany, 5 pages, September 2015
+    (acceptance rate: 35%).
+- **C.S. Corley**, F. Lois, and S.F. Quezada,
+    "Web Usage Patterns of Developers",
+    *31st International Conference on Software Maintenance and Evolution*
+    ([ICSME'15][]) Industry track,
+    Bremen, Germany, 10 pages, September 2015
+    (acceptance rate: 36%).
 - **C.S. Corley**, K.L. Kashuda, D.S. May, and N.A. Kraft,
     "Modeling Changeset Topics",
     *4^th^ Workshop on Mining Unstructured Data*
@@ -121,9 +129,8 @@ Publications
     (acceptance rate: 37% for short papers).
 - A. Bosu, **C.S. Corley**, D. Heaton, D. Chatterji, J.C. Carver, and N.A. Kraft,
     "Building Reputation in StackOverflow: An Empirical Investigation,"
-    *10^th^ Working Conference on Mining Software Repositories ---
-    Mining Challenge*
-    ([MSR'13][]),
+    *10^th^ Working Conference on Mining Software Repositories*
+    ([MSR'13][]) Mining Challenge,
     San Francisco, California, USA, 4 pages, May 2013
     (acceptance rate: 41%).
 - **C.S. Corley**, E.A. Kammer, and N.A. Kraft,

@@ -9,6 +9,8 @@ redcarpet:
         - superscript
         - underline
         - highlighted
+gems:
+  - jemoji
 timezone: America/Chicago
 encoding: UTF-8
 permalink: pretty
