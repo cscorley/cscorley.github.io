@@ -17,21 +17,22 @@ All publications appear (along with many other good papers) in my BiBTeX file,
     <br /> *31st International Conference on Software Maintenance and Evolution*
     ([ICSME'15][])
     <br />
-        [[PDF]](/publications/pdfs/Corley-etal_2015.pdf)
+        [[PDF]](./pdfs/Corley-etal_2015.pdf)
         [[Code]](https://github.com/cscorley/changeset-feature-location)
+        [[Data]](./data/Corley-etal_2015)
 - Exploring the Use of Deep Learning for Feature Location
     <br /> **C.S. Corley**, K. Damevski, and N.A. Kraft
     <br /> *31st International Conference on Software Maintenance and Evolution*
     ([ICSME'15][])
     <br />
-        [[PDF]](/publications/pdfs/Corley-etal_2015a.pdf)
+        [[PDF]](./pdfs/Corley-etal_2015a.pdf)
         [[Code]](https://github.com/cscorley/doc2vec-feature-location)
 - Web Usage Patterns of Developers
     <br /> **C.S. Corley**, F. Lois, and S.F. Quezada
     <br /> *31st International Conference on Software Maintenance and Evolution*
     ([ICSME'15][])
     <br />
-        [[PDF]](/publications/pdfs/Corley-etal_2015b.pdf)
+        [[PDF]](./pdfs/Corley-etal_2015b.pdf)
 
 [ICSME'15]: http://www.icsme.uni-bremen.de/
 
@@ -43,7 +44,7 @@ All publications appear (along with many other good papers) in my BiBTeX file,
     <br />  *Workshop on Mining Unstructured Data*
     ([MUD'14](http://sback.it/mud2014/))
     <br />
-        [[PDF]](/publications/pdfs/Corley-etal_2014.pdf)
+        [[PDF]](./pdfs/Corley-etal_2014.pdf)
         [[DOI]](http://dx.doi.org/10.1109/MUD.2014.9)
         [[Slides]](https://speakerdeck.com/cscorley/modeling-changeset-topics)
         [[Talk (practice)]](https://www.youtube.com/watch?v=S12B_CTeUtA)
@@ -53,7 +54,7 @@ All publications appear (along with many other good papers) in my BiBTeX file,
     <br /> *Working Conference on Mining Software Repositories*
     ([MSR'14](http://2014.msrconf.org/))
     <br />
-        [[PDF]](/publications/pdfs/Klein-etal_2014.pdf)
+        [[PDF]](./pdfs/Klein-etal_2014.pdf)
         [[DOI]](http://dx.doi.org/10.1145/2597073.2597090)
 
 2013
@@ -65,7 +66,7 @@ All publications appear (along with many other good papers) in my BiBTeX file,
     <br /> *Working Conference on Mining Software Repositories --- Mining
     Challenge* ([MSR'13](http://2013.msrconf.org/))
     <br />
-        [[PDF]](/publications/pdfs/Bosu-etal_2013.pdf)
+        [[PDF]](./pdfs/Bosu-etal_2013.pdf)
         [[DOI]](http://dx.doi.org/10.1109/msr.2013.6624013)
 
 2012
@@ -75,7 +76,7 @@ All publications appear (along with many other good papers) in my BiBTeX file,
     <br /> **C.S. Corley**, E.A. Kammer, and N.A. Kraft
     <br /> *IEEE International Conference on Program Comprehension* ([ICPC'12](http://icpc12.sosy-lab.org/))
     <br />
-        [[PDF]](/publications/pdfs/Corley-etal_2012.pdf)
+        [[PDF]](./pdfs/Corley-etal_2012.pdf)
         [[DOI]](http://dx.doi.org/10.1109/ICPC.2012.6240485)
         [[Slides]](https://speakerdeck.com/cscorley/modeling-the-ownership-of-source-code-topics)
         [[Code]](https://github.com/software-eng-ua-edu/ohm/)
@@ -89,6 +90,6 @@ All publications appear (along with many other good papers) in my BiBTeX file,
     <br /> *International Workshop on Traceability in Emerging Forms of Software
     Engineering* ([TEFSE'11](http://www.cs.wm.edu/semeru/tefse2011))
     <br />
-        [[PDF]](/publications/pdfs/Corley-etal_2011.pdf)
+        [[PDF]](./pdfs/Corley-etal_2011.pdf)
         [[DOI]](http://dx.doi.org/10.1145/1987856.1987863)
         [[Slides]](/_static/slides/tefse11.pdf)
