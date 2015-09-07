@@ -8,12 +8,12 @@ layout: page
     alt="Photo of Christop"/>
 
 I am a Ph.D. candidate in the [Department of Computer Science][] at the
-[University of Alabama][]. My research interests are in software engineering
-and maintenance, specifically applications of topic modeling to automation of
-software maintenance tasks. I am part of the [Software Engineering Research
-Group][] and a former [GAANN][] fellow. I am currently advised by [Dr. Nicholas
-A. Kraft][]. I am grateful to have [Dr. Jeffrey C. Carver][] as my committee
-chair.
+[University of Alabama][]. My research interests are in software engineering and
+maintenance, specifically applications of topic modeling to automation of
+software maintenance tasks. I am part of the
+[Software Engineering Research Group][] and a former [GAANN][] fellow. I am
+currently advised by [Dr. Nicholas A. Kraft][]. I am grateful to have
+[Dr. Jeffrey C. Carver][] as my committee chair.
 
 At the moment, I am a visiting researcher at [ABB Corporate Research][] in
 Raleigh, NC.
@@ -24,4 +24,4 @@ Raleigh, NC.
 [GAANN]: http://gaann.cs.ua.edu/
 [Dr. Nicholas A. Kraft]: http://nicholasakraft.com/
 [Dr. Jeffrey C. Carver]: http://carver.cs.ua.edu/
-[ABB Corporate Research]: http://www.abb.com/softwareresearch
+[ABB Corporate Research]: http://new.abb.com/about/technology/corporate-research-centers/corporate-research-center-united-states
