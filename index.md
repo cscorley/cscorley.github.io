@@ -15,9 +15,6 @@ software maintenance tasks. I am part of the
 currently advised by [Dr. Nicholas A. Kraft][]. I am grateful to have
 [Dr. Jeffrey C. Carver][] as my committee chair.
 
-At the moment, I am a visiting researcher at [ABB Corporate Research][] in
-Raleigh, NC. I am actively seeking employment starting as early as January 2016.
-
 [Department of Computer Science]: http://cs.ua.edu/
 [University of Alabama]: http://www.ua.edu/
 [Software Engineering Research Group]: http://se.cs.ua.edu/
