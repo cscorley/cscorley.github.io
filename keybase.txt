@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/cscorley
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://christop.club
+  * I am cscorley (https://keybase.io/cscorley) on keybase.
+  * I have a public key ASDxMaBvgb7zXe9DQlaHKVzbXD7gV1qs8vjJH6RMJG_kyAo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0120f131a06f81bef35def43425687295cdb5c3ee0575aacf2f8c91fa44c246fe4c80a",
+            "host": "keybase.io",
+            "kid": "0120f131a06f81bef35def43425687295cdb5c3ee0575aacf2f8c91fa44c246fe4c80a",
+            "uid": "6758b5cae54187442244426e00c53019",
+            "username": "cscorley"
+        },
+        "service": {
+            "hostname": "christop.club",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.7"
+    },
+    "ctime": 1452367845,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1452367775,
+        "hash": "b653de2369d2ee84ef6a79d4248c09f4255979d6dc44f36f1b4d2fd81bc91ed33dbe40b520eb3d799b1c7beed5c86bac19afa9bf009259fa890c0cbdc4a24c96",
+        "seqno": 346090
+    },
+    "prev": "761ea44d6e8f2e3d993c70aade1daf93b4af20c9333334609a77a77bbed5f6ef",
+    "seqno": 10,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+g6Rib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg8TGgb4G+813vQ0JWhylc21w+4FdarPL4yR+kTCRv5MgKp3BheWxvYWTFAvR7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwZjEzMWEwNmY4MWJlZjM1ZGVmNDM0MjU2ODcyOTVjZGI1YzNlZTA1NzVhYWNmMmY4YzkxZmE0NGMyNDZmZTRjODBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwZjEzMWEwNmY4MWJlZjM1ZGVmNDM0MjU2ODcyOTVjZGI1YzNlZTA1NzVhYWNmMmY4YzkxZmE0NGMyNDZmZTRjODBhIiwidWlkIjoiNjc1OGI1Y2FlNTQxODc0NDIyNDQ0MjZlMDBjNTMwMTkiLCJ1c2VybmFtZSI6ImNzY29ybGV5In0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJjaHJpc3RvcC5jbHViIiwicHJvdG9jb2wiOiJodHRwOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC43In0sImN0aW1lIjoxNDUyMzY3ODQ1LCJleHBpcmVfaW4iOjUwNDU3NjAwMCwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE0NTIzNjc3NzUsImhhc2giOiJiNjUzZGUyMzY5ZDJlZTg0ZWY2YTc5ZDQyNDhjMDlmNDI1NTk3OWQ2ZGM0NGYzNmYxYjRkMmZkODFiYzkxZWQzM2RiZTQwYjUyMGViM2Q3OTliMWM3YmVlZDVjODZiYWMxOWFmYTliZjAwOTI1OWZhODkwYzBjYmRjNGEyNGM5NiIsInNlcW5vIjozNDYwOTB9LCJwcmV2IjoiNzYxZWE0NGQ2ZThmMmUzZDk5M2M3MGFhZGUxZGFmOTNiNGFmMjBjOTMzMzMzNDYwOWE3N2E3N2JiZWQ1ZjZlZiIsInNlcW5vIjoxMCwidGFnIjoic2lnbmF0dXJlIn2jc2lnxECSL25jEI7te7fAfepGlV3v/M/yCMuTxY5CN7t8x+beco6tUDqZKMCjUXWIn9KU/QMGRNT2eLSkNkDghshVEMkEqHNpZ190eXBlIKN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/cscorley
+
+==================================================================
