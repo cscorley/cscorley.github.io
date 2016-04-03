@@ -36,13 +36,14 @@ Most things related to this project can be found in the GitHub repository.
 
 Some files which you might find of immediate interest:
 
-- [Pre-print (pdf)](/publications/pdfs/Corley-etal_2015.pdf)
-- [Release (.tar.gz)](./release.tar.gz) -- Includes source code and starter data
-- [Full dataset (.7z)](./fulldata.7z) (6.8GB) -- The full dataset, including
+- [Paper (pdf)](/publications/pdfs/Corley-etal_2015.pdf)
+- [Full dataset (.tar.xz)][fulldata] (6.8GB) -- The full dataset, including
   generated corpora, models, and results. 
+- [GitHub Repository](github) -- The source code and project history
 - [Taser](https://github.com/nkraft/taser) -- Tool used for parsing Java source
-- [GitHub Repository](https://github.com/cscorley/changeset-feature-location/)
-  -- The source code and project history
+
+[fulldata]: https://drive.google.com/file/d/0B-o0dDx6zYflbGNWcld5N0d0bkk/view
+[github]: https://github.com/cscorley/changeset-feature-location/
 
 We include all of these sources (even the embarrassing commit history) to help
 encourage others in software engineering to engage in
