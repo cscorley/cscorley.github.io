@@ -1,5 +1,4 @@
 name: christop
-markdown: redcarpet
 redcarpet:
     extensions:
         - strikethrough
