@@ -15,10 +15,12 @@ software maintenance tasks. I am part of the
 currently advised by [Dr. Nicholas A. Kraft][]. I am grateful to have
 [Dr. Jeffrey C. Carver][] as my committee chair.
 
+I am also a practicing software engineer based in Chattanooga, TN.  Currently,
+I work primarily with .NET (C#), Python, and Elasticsearch.
+
 [Department of Computer Science]: http://cs.ua.edu/
 [University of Alabama]: http://www.ua.edu/
 [Software Engineering Research Group]: http://se.cs.ua.edu/
 [GAANN]: http://gaann.cs.ua.edu/
 [Dr. Nicholas A. Kraft]: http://nicholasakraft.com/
 [Dr. Jeffrey C. Carver]: http://carver.cs.ua.edu/
-[ABB Corporate Research]: http://new.abb.com/about/technology/corporate-research-centers/corporate-research-center-united-states

@@ -17,7 +17,7 @@ twitter_username: excsc
 exclude:
     - Makefile
 description: >
-    Christopher S. Corley is a PhD candidate at the University of Alabama &
-    a practicing software engineer.
+    Christopher S. Corley is a PhD candidate at the University of Alabama and
+    practicing software engineer.
 baseurl: ""
 url: "http://christop.club"
