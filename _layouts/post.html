@@ -1,16 +1,15 @@
 ---
 layout: default
 ---
+<div class="post">
 
-<div class=post>
-    {% if page.feature %}
-    <div class=feature-image>
-        <img src="{{ page.feature }}"/>
-    </div>
-    {% endif %}
-    {% include post-meta.html %}
-    <h1 class=title-large>{{ page.title }}</h1>
-    <div class="home">
-        {{ content }}
-    </div>
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title }}</h1>
+    <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+  </header>
+
+  <article class="post-content">
+    {{ content }}
+  </article>
+
 </div>

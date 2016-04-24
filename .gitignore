@@ -11,6 +11,4 @@ build/
 dist/
 _cache
 _site
-hakyll
-*.hi
-*.o
+.sass-cache

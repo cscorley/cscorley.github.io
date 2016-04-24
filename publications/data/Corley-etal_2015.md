@@ -38,7 +38,7 @@ Some files which you might find of immediate interest:
 
 - [Paper (pdf)](/publications/pdfs/Corley-etal_2015.pdf)
 - [Full dataset (.tar.xz)][fulldata] (6.8GB) -- The full dataset, including
-  generated corpora, models, and results. 
+  generated corpora, models, and results.
 - [GitHub Repository](github) -- The source code and project history
 - [Taser](https://github.com/nkraft/taser) -- Tool used for parsing Java source
 
@@ -49,8 +49,7 @@ We include all of these sources (even the embarrassing commit history) to help
 encourage others in software engineering to engage in
 [open science principles](http://en.wikipedia.org/wiki/Open_Science).
 If there is anything you'd like to see included, feel free to email at
-<cscorley@crimson.ua.edu>. ***Please*** don't download the full dataset unless
-you're absolutely sure you need it; I have limited bandwidth :)
+<cscorley@crimson.ua.edu>.
 
 ### Dataset
 

@@ -1,4 +1,5 @@
-name: christop
+title: christop.club
+name: Christopher S. Corley
 redcarpet:
     extensions:
         - strikethrough
@@ -8,15 +9,15 @@ redcarpet:
         - superscript
         - underline
         - highlighted
-timezone: America/Chicago
 encoding: UTF-8
 permalink: pretty
-github_url: "https://github.com/cscorley"
-twitter_url: "https://twitter.com/excsc"
-email: "mailto:cscorley@crimson.ua.edu"
+email: cscorley@crimson.ua.edu
+github_username: cscorley
+twitter_username: excsc
 exclude:
     - Makefile
-author_bio: |
-    Christopher S. Corley<br />
-    is a PhD candidate at the<br />
-    <a href="http://cs.ua.edu">University of Alabama</a>.
+description: >
+    Christopher S. Corley is a PhD candidate at the University of Alabama &
+    a practicing software engineer.
+baseurl: ""
+url: "http://christop.club"
