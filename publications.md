@@ -20,6 +20,7 @@ All publications appear (along with many other good papers) in my BiBTeX file,
         [[PDF]](./pdfs/Corley-etal_2015.pdf)
         [[Code]](https://github.com/cscorley/changeset-feature-location)
         [[Data]](./data/Corley-etal_2015)
+        [[Slides]](https://speakerdeck.com/cscorley/modeling-changeset-topics-for-feature-location)
 - Exploring the Use of Deep Learning for Feature Location
     <br /> **C.S. Corley**, K. Damevski, and N.A. Kraft
     <br /> *31st International Conference on Software Maintenance and Evolution*
@@ -92,4 +93,3 @@ All publications appear (along with many other good papers) in my BiBTeX file,
     <br />
         [[PDF]](./pdfs/Corley-etal_2011.pdf)
         [[DOI]](http://dx.doi.org/10.1145/1987856.1987863)
-        [[Slides]](/_static/slides/tefse11.pdf)
