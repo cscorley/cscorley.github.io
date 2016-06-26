@@ -156,6 +156,8 @@ Professional Activities
 
 ### Program Committee Member
 
+- 32^nd^ International Conference on Software Maintenance and Evolution --
+    Early Research Achievements Track ([ICSME'16][])
 - 31^st^ International Conference on Software Maintenance and Evolution --
     Tool Demo Track ([ICSME'15][])
 - 30^th^ International Conference on Software Maintenance and Evolution --
@@ -305,6 +307,7 @@ Academic Service
 [ICSM'11]: http://www.cs.wm.edu/icsm2011
 [ICSME'14]: http://www.icsme.org/2014
 [ICSME'15]: http://www.icsme.uni-bremen.de/
+[ICSME'16]: https://icsme2016.github.io/
 [ICST'15]: http://icst2015.ist.tu-graz.ac.at/
 [IWCT'15]: http://iwct2015.unibg.it/
 [MSR'11]: http://2011.msrconf.org/
