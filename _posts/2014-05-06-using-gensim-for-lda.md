@@ -45,7 +45,7 @@ but that's just dumb.
 
 I've got handy a corpus of every title (already preprocessed) of the Android
 issue report database.
-You can download that [here](/x/android_titles.tar.gz).
+You can download that [here](https://drive.google.com/open?id=0BxrXGxfAKIwfUjVuSnhSVVBTZVU).
 
 Here are the first three lines (aka the first three documents (aka the first
 three issue report titles))
@@ -155,7 +155,7 @@ a minute):
 <div class="in_prompt">in [7]:</div>
 
 {% highlight python %}
-model = gensim.models.LdaModel(corpus, id2word=corpus.id2word, alpha='auto', num_topics=25) 
+model = gensim.models.LdaModel(corpus, id2word=corpus.id2word, alpha='auto', num_topics=25)
 model.save('android.lda')
 #model = gensim.models.LdaModel.load('android.lda')
 {% endhighlight %}
