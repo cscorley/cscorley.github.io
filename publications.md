@@ -6,8 +6,21 @@ title: publications
 Please observe the posted [copyright notices](/copyright) governing the use of material from
 this page.
 
-All publications appear (along with many other good papers) in my BiBTeX file,
-[papers.bib](https://github.com/cscorley/papers)
+All publications should appear (along with many other good papers) in my BiBTeX
+file, [papers.bib](https://github.com/cscorley/papers)
+
+2017
+----
+
+- Reducing Interruptions at Work: A Large-Scale Field Study of FocusLight
+    <br /> M. Züger, **C.S. Corley**, A. Meyer, B. Li, T. Fritz, D. Shepherd,
+        V. Augustine, P. Francis, N.A. Kraft, and W. Snipes
+    <br /> *ACM CHI Conference on Human Factors in Computing Systems*
+        ([CHI'17](https://chi2017.acm.org))
+    <br />
+        [PDF]
+        [DOI]
+        [Online Appendix]
 
 2015
 ----
@@ -15,25 +28,28 @@ All publications appear (along with many other good papers) in my BiBTeX file,
 - Modeling Changeset Topics for Feature Location
     <br /> **C.S. Corley**, K.L. Kashuda, and N.A. Kraft
     <br /> *31st International Conference on Software Maintenance and Evolution*
-    ([ICSME'15][])
+        ([ICSME'15][])
     <br />
         [[PDF]](./pdfs/Corley-etal_2015.pdf)
+        [[DOI]](https://doi.org/10.1109/ICSM.2015.7332453)
         [[Code]](https://github.com/cscorley/changeset-feature-location)
         [[Data]](./data/Corley-etal_2015)
         [[Slides]](https://speakerdeck.com/cscorley/modeling-changeset-topics-for-feature-location)
 - Exploring the Use of Deep Learning for Feature Location
     <br /> **C.S. Corley**, K. Damevski, and N.A. Kraft
     <br /> *31st International Conference on Software Maintenance and Evolution*
-    ([ICSME'15][])
+        ([ICSME'15][])
     <br />
         [[PDF]](./pdfs/Corley-etal_2015a.pdf)
+        [[DOI]](https://doi.org/10.1109/ICSM.2015.7332513)
         [[Code]](https://github.com/cscorley/doc2vec-feature-location)
 - Web Usage Patterns of Developers
     <br /> **C.S. Corley**, F. Lois, and S.F. Quezada
     <br /> *31st International Conference on Software Maintenance and Evolution*
-    ([ICSME'15][])
+        ([ICSME'15][])
     <br />
         [[PDF]](./pdfs/Corley-etal_2015b.pdf)
+        [[DOI]](https://doi.org/10.1109/ICSM.2015.7332489)
 
 [ICSME'15]: http://www.icsme.uni-bremen.de/
 
