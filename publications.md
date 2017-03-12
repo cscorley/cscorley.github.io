@@ -18,9 +18,9 @@ file, [papers.bib](https://github.com/cscorley/papers)
     <br /> *ACM CHI Conference on Human Factors in Computing Systems*
         ([CHI'17](https://chi2017.acm.org))
     <br />
-        [PDF]
+        [[PDF]](./pdfs/Zuger-etal_2017.pdf)
         [DOI]
-        [Online Appendix]
+        [[Online Appendix]](https://sites.google.com/site/focuslightonline/)
 
 2015
 ----
