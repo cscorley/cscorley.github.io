@@ -19,7 +19,7 @@ file, [papers.bib](https://github.com/cscorley/papers)
         ([CHI'17](https://chi2017.acm.org))
     <br />
         [[PDF]](./pdfs/Zuger-etal_2017.pdf)
-        [DOI]
+        [[DOI]](http://dx.doi.org/10.1145/3025453.3025662)
         [[Online Appendix]](https://sites.google.com/site/focuslightonline/)
 
 2015
