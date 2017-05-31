@@ -51,7 +51,7 @@ Education
 =========
 
 - University of Alabama, Tuscaloosa, Alabama, USA
-    - PhD Computer Science, *expected* May 2016
+    - PhD Computer Science, *expected* late 2017
     - Chair: [Jeffrey C. Carver][]
     - Advisor: [Nicholas A. Kraft][]
 
@@ -67,7 +67,10 @@ Education
 Professional Experience
 =======================
 
-- ABB U.S. Corporate Research Center in Raleigh, NC, 2015
+- Coyote Logistics, Chattanooga, TN, 2016 -- current
+    - Software Engineer
+
+- ABB U.S. Corporate Research Center, Raleigh, NC, 2015
     - Visiting Researcher
 
 - University of North Alabama, Mathematics & Computer Science, 2010 -- 2011
@@ -98,6 +101,13 @@ Publications
 
 ### Refereed Conference and Workshop Proceedings
 
+- M. Züger, **C.S. Corley**, A. Meyer, B. Li, T. Fritz, D. Shepherd, V.
+  Augustine, P. Francis, N.A. Kraft, and W. Snipes,
+    "Reducing Interruptions at Work: A Large-Scale Field Study of FocusLight"
+    *2017 CHI Conference on Human Factors in Computing Systems*
+    ([CHI'17][]),
+    Denver, Colorado, USA, 12 pages, May 2017
+    (acceptance rate: 25%).
 - **C.S. Corley**, K.L. Kashuda, and N.A. Kraft,
     "Modeling Changeset Topics for Feature Location",
     *31st International Conference on Software Maintenance and Evolution*
@@ -118,8 +128,7 @@ Publications
     (acceptance rate: 36%).
 - **C.S. Corley**, K.L. Kashuda, D.S. May, and N.A. Kraft,
     "Modeling Changeset Topics",
-    *4^th^ Workshop on Mining Unstructured Data*
-    ([MUD'14][]),
+    *4^th^ Workshop on Mining Unstructured Data* ([MUD'14][]),
     Victoria, British Columbia, Canada, 5 pages, September 2014.
 - N. Klein, **C.S. Corley**, and N.A. Kraft,
     "New Features for Duplicate Bug Detection",
@@ -129,23 +138,21 @@ Publications
     (acceptance rate: 37% for short papers).
 - A. Bosu, **C.S. Corley**, D. Heaton, D. Chatterji, J.C. Carver, and N.A. Kraft,
     "Building Reputation in StackOverflow: An Empirical Investigation,"
-    *10^th^ Working Conference on Mining Software Repositories*
-    ([MSR'13][]) Mining Challenge,
+    *10^th^ Working Conference on Mining Software Repositories* ([MSR'13][])
+    Mining Challenge,
     San Francisco, California, USA, 4 pages, May 2013
     (acceptance rate: 41%).
 - **C.S. Corley**, E.A. Kammer, and N.A. Kraft,
     "Modeling the Ownership of Source Code Topics,"
     *Proceedings of the 20^th^ IEEE International Conference on Program
-    Comprehension*
-    ([ICPC'12][]),
+    Comprehension* ([ICPC'12][]),
     Passau, Bavaria, Germany, 10 pages, June 2012
     (acceptance rate 41%).
 - **C.S. Corley**, N.A. Kraft, L.H. Etzkorn, and S.K. Lukins,
     "Recovering Traceability Links between Source Code and Fixed Bugs via Patch
     Analysis,"
     *Proceedings of the 6^th^ International Workshop on Traceability in
-    Emerging Forms of Software Engineering*,
-    ([TEFSE'11][]),
+    Emerging Forms of Software Engineering*, ([TEFSE'11][]),
     Honolulu, Hawaii, USA, 7 pages, May 2011
     (acceptance rate 44%).
 
@@ -156,6 +163,8 @@ Professional Activities
 
 ### Program Committee Member
 
+- 33^rd^ International Conference on Software Maintenance and Evolution --
+    New Ideas and Emerging Results Track ([ICSME'17][], previously ERA track)
 - 32^nd^ International Conference on Software Maintenance and Evolution --
     Early Research Achievements Track ([ICSME'16][])
 - 31^st^ International Conference on Software Maintenance and Evolution --
@@ -302,12 +311,14 @@ Academic Service
 <!-- conferences -->
 [ACMSE'10]: http://www.cs.oldemiss.edu/acmse2010/
 [ACMSE'12]: http://cs.ua.edu/acmse2012/
+[CHI'17]: https://chi2017.acm.org
 [ICPC'12]: http://icpc12.sosy-lab.org/
 [ICPC'14]: http://icpc2014.usask.ca/
 [ICSM'11]: http://www.cs.wm.edu/icsm2011
 [ICSME'14]: http://www.icsme.org/2014
 [ICSME'15]: http://www.icsme.uni-bremen.de/
 [ICSME'16]: https://icsme2016.github.io/
+[ICSME'17]: https://icsme2017.github.io/
 [ICST'15]: http://icst2015.ist.tu-graz.ac.at/
 [IWCT'15]: http://iwct2015.unibg.it/
 [MSR'11]: http://2011.msrconf.org/

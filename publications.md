@@ -15,7 +15,7 @@ file, [papers.bib](https://github.com/cscorley/papers)
 - Reducing Interruptions at Work: A Large-Scale Field Study of FocusLight
     <br /> M. Züger, **C.S. Corley**, A. Meyer, B. Li, T. Fritz, D. Shepherd,
         V. Augustine, P. Francis, N.A. Kraft, and W. Snipes
-    <br /> *ACM CHI Conference on Human Factors in Computing Systems*
+    <br /> *2017 CHI Conference on Human Factors in Computing Systems*
         ([CHI'17](https://chi2017.acm.org))
     <br />
         [[PDF]](./pdfs/Zuger-etal_2017.pdf)
