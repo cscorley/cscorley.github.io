@@ -265,6 +265,8 @@ Academic Service
 
 ### Volunteering
 
+- Roberts Park Community Center, Raleigh, NC
+    Co-instructor, Introduction to Programming, Summer 2015
 - 30^th^ IEEE International Conference on Software Maintenance and Evolution ([ICSME'14][])
     Student Volunteer, 2014
 - 4^th^ Workshop on Mining Unstructured Data ([MUD'14][])
