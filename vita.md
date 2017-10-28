@@ -51,7 +51,7 @@ Education
 =========
 
 - University of Alabama, Tuscaloosa, Alabama, USA
-    - PhD Computer Science, *expected* late 2017
+    - PhD Computer Science, *expected* Spring 2018
     - Chair: [Jeffrey C. Carver][]
     - Advisor: [Nicholas A. Kraft][]
 
@@ -108,6 +108,7 @@ Publications
     ([CHI'17][]),
     Denver, Colorado, USA, 12 pages, May 2017
     (acceptance rate: 25%).
+    Honorable Mention Award.
 - **C.S. Corley**, K.L. Kashuda, and N.A. Kraft,
     "Modeling Changeset Topics for Feature Location",
     *31st International Conference on Software Maintenance and Evolution*
