@@ -16,7 +16,7 @@ file, [papers.bib](https://github.com/cscorley/papers)
     <br /> M. Züger, **C.S. Corley**, A. Meyer, B. Li, T. Fritz, D. Shepherd,
         V. Augustine, P. Francis, N.A. Kraft, and W. Snipes
     <br /> *2017 CHI Conference on Human Factors in Computing Systems*
-        ([CHI'17](https://chi2017.acm.org))
+        ([CHI'17](https://chi2017.acm.org)). Honorable Mention Award.
     <br />
         [[PDF]](./pdfs/Zuger-etal_2017.pdf)
         [[DOI]](http://dx.doi.org/10.1145/3025453.3025662)
