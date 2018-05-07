@@ -51,7 +51,9 @@ Education
 =========
 
 - University of Alabama, Tuscaloosa, Alabama, USA
-    - PhD Computer Science, *expected* Spring 2018
+    - PhD Computer Science, May 2018
+    - Dissertation: *Online Topic Modeling for Software Maintenance Using A
+      Changeset-based Approach*
     - Chair: [Jeffrey C. Carver][]
     - Advisor: [Nicholas A. Kraft][]
 
@@ -164,6 +166,10 @@ Professional Activities
 
 ### Program Committee Member
 
+- 26^th^ International Conference on Program Comprehension --
+    Technical Research Track ([ICPC'18][])
+- 15^th^ International Conference on Mining Software Repositories --
+    Mining Challenge ([MSR'18][])
 - 33^rd^ International Conference on Software Maintenance and Evolution --
     New Ideas and Emerging Results Track ([ICSME'17][], previously ERA track)
 - 32^nd^ International Conference on Software Maintenance and Evolution --
@@ -317,6 +323,7 @@ Academic Service
 [CHI'17]: https://chi2017.acm.org
 [ICPC'12]: http://icpc12.sosy-lab.org/
 [ICPC'14]: http://icpc2014.usask.ca/
+[ICPC'18]: https://conf.researchr.org/home/icpc-2018
 [ICSM'11]: http://www.cs.wm.edu/icsm2011
 [ICSME'14]: http://www.icsme.org/2014
 [ICSME'15]: http://www.icsme.uni-bremen.de/
@@ -327,6 +334,7 @@ Academic Service
 [MSR'11]: http://2011.msrconf.org/
 [MSR'13]: http://2013.msrconf.org/
 [MSR'14]: http://2014.msrconf.org/
+[MSR'18]: http://2018.msrconf.org/
 [MUD'14]: http://sback.it/mud2014/
 [TEFSE'11]: http://www.cs.wm.edu/semeru/tefse2011
 [TEFSE'13]: http://www.cse.msstate.edu/~tefse13/

@@ -1,5 +1,5 @@
 title: christop.club
-name: Christopher S. Corley
+name: Christopher S. Corley, PhD
 redcarpet:
     extensions:
         - strikethrough
@@ -23,7 +23,6 @@ twitter_username: excsc
 exclude:
     - Makefile
 description: >
-    Christopher S. Corley is a PhD candidate at the University of Alabama and
-    practicing software engineer.
+    Christopher S. Corley is a software engineer in Chattanooga, TN
 baseurl: ""
-url: "http://christop.club"
+url: "https://christop.club"
