@@ -31,9 +31,8 @@ include-before: |
 
 
 ------------------------------- ----------------------------
-Department of Computer Science     <cscorley@crimson.ua.edu>
-The University of Alabama             <http://christop.club>
-Tuscaloosa, AL 35487-0290, USA
+Chattanooga, TN                    <cscorley@crimson.ua.edu>
+256-668-3424                         <https://christop.club>
 ------------------------------- ----------------------------
 
 
