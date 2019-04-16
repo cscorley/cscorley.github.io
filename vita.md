@@ -70,6 +70,7 @@ Professional Experience
 
 - Coyote Logistics, Chattanooga, TN, 2016 -- current
     - Software Engineer
+    - Promoted to Senior Software Engineer in 2019
 
 - ABB U.S. Corporate Research Center, Raleigh, NC, 2015
     - Visiting Researcher
