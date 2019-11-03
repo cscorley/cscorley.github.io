@@ -71,6 +71,7 @@ Professional Experience
 - Coyote Logistics, Chattanooga, TN, 2016 -- current
     - Software Engineer
     - Promoted to Senior Software Engineer in 2019
+    - Promoted to Lead Software Engineer in 2019
 
 - ABB U.S. Corporate Research Center, Raleigh, NC, 2015
     - Visiting Researcher
@@ -166,6 +167,8 @@ Professional Activities
 
 ### Program Committee Member
 
+- 17^th^ International Conference on Mining Software Repositories --
+    Mining Challenge ([MSR'20][])
 - 26^th^ International Conference on Program Comprehension --
     Technical Research Track ([ICPC'18][])
 - 15^th^ International Conference on Mining Software Repositories --
@@ -335,6 +338,7 @@ Academic Service
 [MSR'13]: http://2013.msrconf.org/
 [MSR'14]: http://2014.msrconf.org/
 [MSR'18]: http://2018.msrconf.org/
+[MSR'20]: http://2020.msrconf.org/
 [MUD'14]: http://sback.it/mud2014/
 [TEFSE'11]: http://www.cs.wm.edu/semeru/tefse2011
 [TEFSE'13]: http://www.cse.msstate.edu/~tefse13/
