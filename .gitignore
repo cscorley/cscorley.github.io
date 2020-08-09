@@ -12,3 +12,4 @@ dist/
 _cache
 _site
 .sass-cache
+.~lock*
