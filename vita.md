@@ -33,13 +33,13 @@ include-before: |
 | --------------- | :-----------------------: | ----------------------: |
 | Chattanooga, TN | <cscorley@crimson.ua.edu> | <https://christop.club> |
 
-# Research Interests
+## Research Interests
 
 Software maintenance and evolution, machine learning in software engineering,
 mining software repositories, program comprehension, automating software
 engineering
 
-# Education
+## Education
 
 - University of Alabama, Tuscaloosa, Alabama, USA
 
@@ -57,7 +57,7 @@ engineering
 - University of North Alabama, Florence, Alabama, USA
   - BS Computer Science, May 2011
 
-# Professional Experience
+## Professional Experience
 
 - Coyote Logistics, Chattanooga, TN, 2016 -- current
 
@@ -76,7 +76,7 @@ engineering
 - University of North Alabama, Academic Resource Center, 2008 -- 2011
   - Undergraduate Computer Science Tutor
 
-# Fellowships and Awards
+## Fellowships and Awards
 
 - Graduate Assistance in Areas of National Need ([GAANN][]) Doctoral Fellowship,
   2011 -- 2016
@@ -88,7 +88,15 @@ engineering
 - [Research Experience for Undergraduates][],
   2009 & 2010
 
-# Publications
+## Publications
+
+### Refereed Journal Articles
+
+- **C.S. Corley**, K. Damevski, and N.A. Kraft,
+  "Changeset-Based Topic Modeling of Software Repositories",
+  _IEEE Transactions on Software Engineering_
+  vol. 46, no. 10, pp. 1068-1080, 1 Oct. 2020,
+  doi: [10.1109/TSE.2018.2874960](https://doi.org/10.1109/TSE.2018.2874960).
 
 ### Refereed Conference and Workshop Proceedings
 
@@ -136,19 +144,19 @@ engineering
   (acceptance rate: 41%).
 - **C.S. Corley**, E.A. Kammer, and N.A. Kraft,
   "Modeling the Ownership of Source Code Topics,"
-  _Proceedings of the 20^th^ IEEE International Conference on Program
-  Comprehension_ ([ICPC'12][]),
+  _Proceedings of the 20^th^ IEEE International Conference on Program Comprehension_
+  ([ICPC'12][]),
   Passau, Bavaria, Germany, 10 pages, June 2012
   (acceptance rate 41%).
 - **C.S. Corley**, N.A. Kraft, L.H. Etzkorn, and S.K. Lukins,
   "Recovering Traceability Links between Source Code and Fixed Bugs via Patch
   Analysis,"
-  _Proceedings of the 6^th^ International Workshop on Traceability in
-  Emerging Forms of Software Engineering_, ([TEFSE'11][]),
+  _Proceedings of the 6^th^ International Workshop on Traceability in Emerging Forms of Software Engineering_
+  ([TEFSE'11][]),
   Honolulu, Hawaii, USA, 7 pages, May 2011
   (acceptance rate 44%).
 
-# Professional Activities
+## Professional Activities
 
 ### Program Committee Member
 
@@ -202,7 +210,7 @@ engineering
   - Local chapter (University of North Alabama) Student President, 2009 -- 2011
 - ACM Special Interest Group on Software Engineering (SIGSOFT), 2012 -- 2015
 
-# Teaching
+## Teaching
 
 - _Assistant_, CS 250 - Programming II (Fall 2013, Spring 2014)
   - Primary Instructor: [Nicholas A. Kraft][]
@@ -210,7 +218,7 @@ engineering
   - Primary Instructor: [Nicholas A. Kraft][]
   - [100P][] course
 
-# Academic Service
+## Academic Service
 
 - [Graduate Student Association][]
   Department Representative, 2014
@@ -315,3 +323,6 @@ engineering
 [mud'14]: http://sback.it/mud2014/
 [tefse'11]: http://www.cs.wm.edu/semeru/tefse2011
 [tefse'13]: http://www.cse.msstate.edu/~tefse13/
+
+<!-- journals -->
+[tse'oct'20]: https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=9224257

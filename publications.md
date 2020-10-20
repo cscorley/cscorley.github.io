@@ -9,6 +9,19 @@ this page.
 All publications should appear (along with many other good papers) in my BiBTeX
 file, [papers.bib](https://github.com/cscorley/papers)
 
+2020
+----
+
+- Changeset-Based Topic Modeling of Software Repositories
+    <br /> **C.S. Corley**, K. Damevski, and N.A. Kraft
+    <br /> _IEEE Transactions on Software Engineering_ ([TSE Oct'20][]),
+    <br />
+        [[PDF]](./pdfs/Corley-etal_2020.pdf)
+        [[DOI]](https://doi.org/10.1109/TSE.2018.2874960)
+        [[Code]](https://github.com/cscorley/triage)
+
+[TSE Oct'20]: https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=9224257
+
 2017
 ----
 
