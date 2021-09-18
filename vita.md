@@ -29,9 +29,9 @@ include-before: |
   \thispagestyle{empty}
 ---
 
-|                 |                           |                         |
-| --------------- | :-----------------------: | ----------------------: |
-| Chattanooga, TN | <cscorley@crimson.ua.edu> | <https://christop.club> |
+|                 |                      |                         |
+| --------------- | :------------------: | ----------------------: |
+| Chattanooga, TN | <cscorley@gmail.com> | <https://christop.club> |
 
 ## Research Interests
 
@@ -59,7 +59,11 @@ engineering
 
 ## Professional Experience
 
-- Coyote Logistics, Chattanooga, TN, 2016 -- current
+- Fathom Video, Remote, 2021 -- current
+
+  - Senior Software Engineer
+
+- Coyote Logistics, Chattanooga, TN, 2016 -- 2021
 
   - Software Engineer
   - Promoted to Senior Software Engineer in Spring 2019
