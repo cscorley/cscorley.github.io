@@ -11,7 +11,7 @@ fontfamily: libertine
 geometry: margin=1in
 header-includes: |
   \makeatletter
-  \renewcommand{\@maketitle}{ \begin{center} {\Large \@title } \end{center}}
+  \renewcommand{\maketitle}{ \begin{center} {\Large \@title } \end{center}}
   \makeatother
   \usepackage{enumitem}
   \renewcommand{\labelitemi}{}
