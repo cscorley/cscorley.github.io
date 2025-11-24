@@ -62,6 +62,8 @@ engineering
 - Fathom Video, Remote, 2021 -- current
 
   - Senior Software Engineer
+  - Promoted to Staff Software Engineer in Summer 2023
+  - Promoted to Lead Software Engineer in Sprint 2025
 
 - Coyote Logistics, Chattanooga, TN, 2016 -- 2021
 
